@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/precache-manifest.4e77da8ddee44de33fd8cba8aa10ccd6.js"
+  "/Aevzag/precache-manifest.07f37ade7032000db74c0705896ceacb.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "aevzagvue"});
