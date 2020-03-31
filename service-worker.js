@@ -14,10 +14,10 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/Aevzag/precache-manifest.23a937152ce3490ce6c3d47009f1517d.js"
+  "/Aevzag/precache-manifest.8b451e377bb3e5d64b7ece0e935d06e7.js"
 );
 
-workbox.core.setCacheNameDetails({prefix: "aevzagvue"});
+workbox.core.setCacheNameDetails({prefix: "aevzag"});
 
 self.addEventListener('message', (event) => {
   if (event.data && event.data.type === 'SKIP_WAITING') {
