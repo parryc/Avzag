@@ -2,7 +2,7 @@ importScripts("/Aevzag/precache-manifest.f2908e88a3a56c388e6a7e695273c12a.js", "
 
 // This is the service worker with the Cache-first network
 
-const CACHE = "aevzag-precache";
+const CACHE = "sw-aevzag-precache";
 const precacheFiles = self.__precacheManifest.map(f => f.url);
 
 console.log(precacheFiles);
