@@ -1,7 +1,7 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "6b0f3654d8b120b6c741",
-    "url": "/Aevzag/css/app.c1a06046.css"
+    "revision": "ca1f36f5e880bdbb12fa",
+    "url": "/Aevzag/css/app.e483deaa.css"
   },
   {
     "revision": "efa1ca4fff9ed60414aca156df65a179",
@@ -16,12 +16,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Aevzag/icon.png"
   },
   {
-    "revision": "2168afd5a353906192801c10fbac3246",
+    "revision": "36215b319ecfddbc8ea322c64931685c",
     "url": "/Aevzag/index.html"
   },
   {
-    "revision": "6b0f3654d8b120b6c741",
-    "url": "/Aevzag/js/app.39c6a541.js"
+    "revision": "ca1f36f5e880bdbb12fa",
+    "url": "/Aevzag/js/app.fd9524c3.js"
   },
   {
     "revision": "198db4618dd780e7ec1f",
@@ -880,7 +880,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Aevzag/languages/Ossetian/sample.txt"
   },
   {
-    "revision": "1846e2e86d808c612d192764735e5a65",
+    "revision": "0757fa60f4c0f2bba941797f5f4da04f",
     "url": "/Aevzag/languages/catalogue.json"
   },
   {
