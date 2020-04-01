@@ -880,7 +880,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Aevzag/languages/Ossetian/sample.txt"
   },
   {
-    "revision": "802e28d8095fdc9d6fa84c550b8a9a77",
+    "revision": "0757fa60f4c0f2bba941797f5f4da04f",
     "url": "/Aevzag/languages/catalogue.json"
   },
   {
