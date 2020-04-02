@@ -1,7 +1,7 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "3e9786b39d8b2adf166c",
-    "url": "/Aevzag/css/app.404bb459.css"
+    "revision": "35c4881e06375d6a987d",
+    "url": "/Aevzag/css/app.3ecff6ff.css"
   },
   {
     "revision": "efa1ca4fff9ed60414aca156df65a179",
@@ -16,16 +16,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Aevzag/icon.png"
   },
   {
-    "revision": "cb82f0cd678cbe97f3dc1e6de5e48b5c",
+    "revision": "5f23acf36a9859023f1f48d01fac8ed0",
     "url": "/Aevzag/index.html"
   },
   {
-    "revision": "3e9786b39d8b2adf166c",
-    "url": "/Aevzag/js/app.5e545729.js"
+    "revision": "35c4881e06375d6a987d",
+    "url": "/Aevzag/js/app.a10e481b.js"
   },
   {
-    "revision": "cf07895675d0e5f60f23",
-    "url": "/Aevzag/js/chunk-vendors.91233958.js"
+    "revision": "bcbd3fdf790edd5fe054",
+    "url": "/Aevzag/js/chunk-vendors.13d26d37.js"
   },
   {
     "revision": "8cee88e32f043f787cd8cfa38c57e0cd",
@@ -852,7 +852,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Aevzag/languages/Kaitag/index.json"
   },
   {
-    "revision": "eb0ed26deeee715380fbc1a299a0b3fa",
+    "revision": "90733637368139c4e5deaf4d5f05cbb5",
     "url": "/Aevzag/languages/Kaitag/phonemes.json"
   },
   {
