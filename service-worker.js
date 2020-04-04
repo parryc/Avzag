@@ -1,11 +1,9 @@
-importScripts("/Aevzag/precache-manifest.eb0f4117eda691ba7ab388fe61a2cfc9.js", "https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
+importScripts("/Aevzag/precache-manifest.eebff33b2a614d21fb5689821b054ec2.js", "https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 // This is the service worker with the Cache-first network
 
 const CACHE = "sw-aevzag-precache";
 const precacheFiles = self.__precacheManifest.map(f => f.url);
-
-console.log(precacheFiles);
 
 self.addEventListener("install", function (event) {
     console.log("[PWA Builder] Install Event processing");
