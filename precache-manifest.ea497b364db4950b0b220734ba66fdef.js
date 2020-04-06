@@ -1,7 +1,7 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "8191f57b2ee6efca9f58",
-    "url": "/Aevzag/css/app.401088ed.css"
+    "revision": "162f37bf3dc611ed38dc",
+    "url": "/Aevzag/css/app.ff608758.css"
   },
   {
     "revision": "40dc1514b53dcb54453a60b8fe1f5250",
@@ -12,12 +12,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Aevzag/icon.png"
   },
   {
-    "revision": "383b9a5b42abadf626623077337286b5",
+    "revision": "3ac91e706feb5d76e330fa5d2feb279d",
     "url": "/Aevzag/index.html"
   },
   {
-    "revision": "8191f57b2ee6efca9f58",
-    "url": "/Aevzag/js/app.ac30b5f8.js"
+    "revision": "162f37bf3dc611ed38dc",
+    "url": "/Aevzag/js/app.bc7a5240.js"
   },
   {
     "revision": "1309be400e7b7f36952f",
@@ -25,7 +25,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   },
   {
     "revision": "8cee88e32f043f787cd8cfa38c57e0cd",
-    "url": "/Aevzag/languages/Kabardian/converters.json"
+    "url": "/Aevzag/languages/Kabardian/converter.json"
   },
   {
     "revision": "c7c767f413aaa7b3feafe10d66495a06",
@@ -36,8 +36,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Aevzag/languages/Kabardian/index.json"
   },
   {
-    "revision": "90b57ab4f290b1c4c212ba6339b6afa0",
-    "url": "/Aevzag/languages/Kabardian/phonemes.json"
+    "revision": "67aef76b1730ae21616005e8ffac311a",
+    "url": "/Aevzag/languages/Kabardian/phonology.json"
   },
   {
     "revision": "35b6bb0942e130e22598607548e1b9e9",
@@ -837,7 +837,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   },
   {
     "revision": "f1fce7758f46429fa30561884042849d",
-    "url": "/Aevzag/languages/Kaitag/converters.json"
+    "url": "/Aevzag/languages/Kaitag/converter.json"
   },
   {
     "revision": "57f80b075cd3b6d1d0f48227e9940dee",
@@ -848,8 +848,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Aevzag/languages/Kaitag/index.json"
   },
   {
-    "revision": "8c387822980dd09548c548329528a8e8",
-    "url": "/Aevzag/languages/Kaitag/phonemes.json"
+    "revision": "743cb29a1b6757cac9c1e74c6ca46ca2",
+    "url": "/Aevzag/languages/Kaitag/phonology.json"
   },
   {
     "revision": "3093f5b0d99d28c8f33ccbea5088b50a",
@@ -857,7 +857,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   },
   {
     "revision": "b0227b4d761eb21e249229dd310bec08",
-    "url": "/Aevzag/languages/Ossetian/converters.json"
+    "url": "/Aevzag/languages/Ossetian/converter.json"
   },
   {
     "revision": "2d5df4de740cc151290de51b16cbfe5d",
@@ -868,8 +868,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Aevzag/languages/Ossetian/index.json"
   },
   {
-    "revision": "4d40128ffa37a692d29177317879b041",
-    "url": "/Aevzag/languages/Ossetian/phonemes.json"
+    "revision": "8fe7d5a5c513daf8e45119eb6d7c752f",
+    "url": "/Aevzag/languages/Ossetian/phonology.json"
   },
   {
     "revision": "c6f5676483f2e0f0cd8ccb9bc8784721",
