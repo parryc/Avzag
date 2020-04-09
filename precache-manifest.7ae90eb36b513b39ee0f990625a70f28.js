@@ -1,7 +1,7 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "cc3497058350955ba659",
-    "url": "/Aevzag/css/app.b5bc1093.css"
+    "revision": "ea5c623460515ef69366",
+    "url": "/Aevzag/css/app.965a1dcf.css"
   },
   {
     "revision": "40dc1514b53dcb54453a60b8fe1f5250",
@@ -12,12 +12,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Aevzag/icon.png"
   },
   {
-    "revision": "528a45b10c7f738831e154dce14bc478",
+    "revision": "46bc87c64874c9049922a58a45c560ca",
     "url": "/Aevzag/index.html"
   },
   {
-    "revision": "cc3497058350955ba659",
-    "url": "/Aevzag/js/app.9f327a84.js"
+    "revision": "ea5c623460515ef69366",
+    "url": "/Aevzag/js/app.9b4624c0.js"
   },
   {
     "revision": "bd40de9303b8ac9a4779",
@@ -848,7 +848,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Aevzag/languages/Dargin/index.json"
   },
   {
-    "revision": "dfa5942f3927e737bfc22fbf92ba9a1d",
+    "revision": "bea04f3171e30dd2359ef0294ddbeab2",
     "url": "/Aevzag/languages/Dargin/phonology.json"
   },
   {
@@ -876,11 +876,15 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Aevzag/languages/Ossetian/sample.txt"
   },
   {
-    "revision": "8b0b5e7cdff379f57e12654c7b283c82",
+    "revision": "de747decd9f00dc01407b89718df86e5",
     "url": "/Aevzag/languages/catalogue.json"
   },
   {
     "revision": "a666d6a2f1a9643adf2191888d7c9cb1",
     "url": "/Aevzag/manifest.json"
+  },
+  {
+    "revision": "6618b3028f71e7e925f59460edb9ad90",
+    "url": "/Aevzag/migrate.py"
   }
 ]);
