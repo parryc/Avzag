@@ -1,7 +1,7 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "75405f82ed5841ca97b6",
-    "url": "/Aevzag/css/app.5da4ad75.css"
+    "revision": "deba59f60dc665eca47d",
+    "url": "/Aevzag/css/app.ffe5a32b.css"
   },
   {
     "revision": "9dad91051dc1fc4cb8e5e6b0b9124e9e",
@@ -12,12 +12,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Aevzag/icon.png"
   },
   {
-    "revision": "4363ab71e9d1c436f7e3f35ad60c290d",
+    "revision": "8c8884df6e770acb88cf80ba5d2f027e",
     "url": "/Aevzag/index.html"
   },
   {
-    "revision": "75405f82ed5841ca97b6",
-    "url": "/Aevzag/js/app.c92a37b9.js"
+    "revision": "deba59f60dc665eca47d",
+    "url": "/Aevzag/js/app.2a9a81f8.js"
   },
   {
     "revision": "bd40de9303b8ac9a4779",
