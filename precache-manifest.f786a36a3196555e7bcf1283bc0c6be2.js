@@ -848,7 +848,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Aevzag/languages/Dargin/index.json"
   },
   {
-    "revision": "b6259feb3229d334acca0f012ec4e5ad",
+    "revision": "8c18da7cf6b0e205764b68d880df08b7",
     "url": "/Aevzag/languages/Dargin/phonology.json"
   },
   {
