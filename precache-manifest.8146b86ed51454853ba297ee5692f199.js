@@ -4,7 +4,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Aevzag/css/app.79d12fba.css"
   },
   {
-    "revision": "d90a0be11e64405c4b163184ff836667",
+    "revision": "880876f8b1ae898f96fca0c4e71e18df",
     "url": "/Aevzag/css/base.css"
   },
   {
@@ -24,7 +24,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Aevzag/js/chunk-vendors.c53c2a3d.js"
   },
   {
-    "revision": "8cee88e32f043f787cd8cfa38c57e0cd",
+    "revision": "0226c541030e3b1034b669bfffb10862",
     "url": "/Aevzag/languages/Circassian/converter.json"
   },
   {
@@ -836,7 +836,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Aevzag/languages/Dargin/Kaitag/audio/я.m4a"
   },
   {
-    "revision": "f1fce7758f46429fa30561884042849d",
+    "revision": "e5a556375250c992ef5094ce6a18c767",
     "url": "/Aevzag/languages/Dargin/converter.json"
   },
   {
