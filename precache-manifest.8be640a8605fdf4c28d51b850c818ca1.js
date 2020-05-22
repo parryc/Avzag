@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "89e960757ef4c46e3c41",
-    "url": "/Aevzag/css/app.eba9b802.css"
+    "revision": "dc1e856283241a386043",
+    "url": "/Aevzag/css/app.39df1f8f.css"
   },
   {
-    "revision": "880876f8b1ae898f96fca0c4e71e18df",
+    "revision": "b9c3f0545737902ad567629fd3eba65b",
     "url": "/Aevzag/css/base.css"
   },
   {
@@ -12,12 +12,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Aevzag/icon.png"
   },
   {
-    "revision": "e8551b88fab97ae5e892a110be32a14c",
+    "revision": "e4e9410fb15c488cabafff8962dc924b",
     "url": "/Aevzag/index.html"
   },
   {
-    "revision": "89e960757ef4c46e3c41",
-    "url": "/Aevzag/js/app.0e794156.js"
+    "revision": "dc1e856283241a386043",
+    "url": "/Aevzag/js/app.1b218828.js"
   },
   {
     "revision": "c047120cf858bd136cb3",
@@ -836,7 +836,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Aevzag/languages/Dargin/Kaitag/audio/я.m4a"
   },
   {
-    "revision": "03e2d5e95f2ace8d45bbb337a575a170",
+    "revision": "9b7418454e853f18ae7a793e36fa0c6a",
     "url": "/Aevzag/languages/Dargin/converter.json"
   },
   {
@@ -848,7 +848,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Aevzag/languages/Dargin/index.json"
   },
   {
-    "revision": "0c877673cd4cc1e41515c54d2f1ee1d6",
+    "revision": "0673d20a3706479fb3eef36e12359456",
     "url": "/Aevzag/languages/Dargin/phonology.json"
   },
   {
