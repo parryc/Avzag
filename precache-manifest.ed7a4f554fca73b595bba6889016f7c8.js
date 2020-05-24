@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "dc1e856283241a386043",
-    "url": "/Aevzag/css/app.39df1f8f.css"
+    "revision": "b5d0081164c88d2f993c",
+    "url": "/Aevzag/css/app.f17ac024.css"
   },
   {
-    "revision": "b9c3f0545737902ad567629fd3eba65b",
+    "revision": "0f08c133ffb20faf5614fecc0bc5de18",
     "url": "/Aevzag/css/base.css"
   },
   {
@@ -12,20 +12,20 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Aevzag/icon.png"
   },
   {
-    "revision": "e4e9410fb15c488cabafff8962dc924b",
+    "revision": "01f51ba526826d95e298370edf6daca1",
     "url": "/Aevzag/index.html"
   },
   {
-    "revision": "dc1e856283241a386043",
-    "url": "/Aevzag/js/app.1b218828.js"
+    "revision": "b5d0081164c88d2f993c",
+    "url": "/Aevzag/js/app.5b694099.js"
   },
   {
-    "revision": "c047120cf858bd136cb3",
-    "url": "/Aevzag/js/chunk-vendors.c53c2a3d.js"
+    "revision": "726c1c676d21559de013",
+    "url": "/Aevzag/js/chunk-vendors.501f0aab.js"
   },
   {
     "revision": "0226c541030e3b1034b669bfffb10862",
-    "url": "/Aevzag/languages/Circassian/converter.json"
+    "url": "/Aevzag/languages/Circassian/converters.json"
   },
   {
     "revision": "c7c767f413aaa7b3feafe10d66495a06",
@@ -40,7 +40,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Aevzag/languages/Circassian/phonology.json"
   },
   {
-    "revision": "35b6bb0942e130e22598607548e1b9e9",
+    "revision": "1e7bc6c72249d8c4398d44d4224156de",
     "url": "/Aevzag/languages/Circassian/sample.txt"
   },
   {
@@ -837,7 +837,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   },
   {
     "revision": "9b7418454e853f18ae7a793e36fa0c6a",
-    "url": "/Aevzag/languages/Dargin/converter.json"
+    "url": "/Aevzag/languages/Dargin/converters.json"
   },
   {
     "revision": "57f80b075cd3b6d1d0f48227e9940dee",
@@ -857,7 +857,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   },
   {
     "revision": "b0227b4d761eb21e249229dd310bec08",
-    "url": "/Aevzag/languages/Ossetian/converter.json"
+    "url": "/Aevzag/languages/Ossetian/converters.json"
   },
   {
     "revision": "2d5df4de740cc151290de51b16cbfe5d",
