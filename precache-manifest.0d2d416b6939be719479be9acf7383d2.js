@@ -840,7 +840,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Aevzag/languages/Dargin/converters.json"
   },
   {
-    "revision": "b63f9a0df5ddcde59aa19d21151bb50f",
+    "revision": "df15dc4706f0fefd31af1cd27a8bdfa8",
     "url": "/Aevzag/languages/Dargin/dictionary.json"
   },
   {
