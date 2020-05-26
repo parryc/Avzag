@@ -40,7 +40,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Aevzag/languages/Circassian/phonology.json"
   },
   {
-    "revision": "1e7bc6c72249d8c4398d44d4224156de",
+    "revision": "be86b5964278ac8a93ef437fceb22d4b",
     "url": "/Aevzag/languages/Circassian/sample.txt"
   },
   {
@@ -836,7 +836,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Aevzag/languages/Dargin/Kaitag/audio/я.m4a"
   },
   {
-    "revision": "9b7418454e853f18ae7a793e36fa0c6a",
+    "revision": "68257f94b597ac9de70a93dcc46269c4",
     "url": "/Aevzag/languages/Dargin/converters.json"
   },
   {
