@@ -24,7 +24,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Aevzag/js/chunk-vendors.501f0aab.js"
   },
   {
-    "revision": "4534caa9f84a35ff28313088bf5361c8",
+    "revision": "1c7e63e667e02de36b5a608842c92e55",
     "url": "/Aevzag/languages/Circassian/converters.json"
   },
   {
