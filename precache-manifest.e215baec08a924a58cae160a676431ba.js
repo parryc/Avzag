@@ -1,7 +1,7 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "666a7bda3811da1df15c",
-    "url": "/Aevzag/css/app.98e3e213.css"
+    "revision": "5584819fb6d86b9b7a76",
+    "url": "/Aevzag/css/app.7045c91f.css"
   },
   {
     "revision": "c183e1f402f1e9eec71305d2bf127ee6",
@@ -12,12 +12,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Aevzag/icon.png"
   },
   {
-    "revision": "07a04aba5df984d9a96f50eb5a7bdfba",
+    "revision": "1e4bb4236f1597a113571df0e05ef378",
     "url": "/Aevzag/index.html"
   },
   {
-    "revision": "666a7bda3811da1df15c",
-    "url": "/Aevzag/js/app.5f03da4c.js"
+    "revision": "5584819fb6d86b9b7a76",
+    "url": "/Aevzag/js/app.e78837dc.js"
   },
   {
     "revision": "726c1c676d21559de013",
@@ -838,6 +838,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "68257f94b597ac9de70a93dcc46269c4",
     "url": "/Aevzag/languages/Dargin/converters.json"
+  },
+  {
+    "revision": "b63f9a0df5ddcde59aa19d21151bb50f",
+    "url": "/Aevzag/languages/Dargin/dictionary.json"
   },
   {
     "revision": "57f80b075cd3b6d1d0f48227e9940dee",
