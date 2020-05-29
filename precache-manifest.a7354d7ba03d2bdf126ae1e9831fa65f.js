@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Aevzag/css/containers.css"
   },
   {
-    "revision": "848e986a8da88c30d742fa81727c4e24",
+    "revision": "21c9ba18fb0f65975b95ae156f378dd7",
     "url": "/Aevzag/css/controls.css"
   },
   {
