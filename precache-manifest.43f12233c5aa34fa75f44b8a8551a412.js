@@ -1,27 +1,63 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "b91ea89f9feffcc10528",
-    "url": "/Aevzag/css/app.4cb8d5aa.css"
+    "revision": "f2944d0df64fc79a25c8",
+    "url": "/Aevzag/css/app.d65d8768.css"
   },
   {
-    "revision": "c183e1f402f1e9eec71305d2bf127ee6",
-    "url": "/Aevzag/css/base.css"
+    "revision": "1682af2afb07239289ef8c1a76c3be63",
+    "url": "/Aevzag/css/containers.css"
+  },
+  {
+    "revision": "fa5d872c5de44a02e291357537049a0b",
+    "url": "/Aevzag/css/controls.css"
+  },
+  {
+    "revision": "df0f40c6ef529d6fac7480b8778a28b5",
+    "url": "/Aevzag/css/text.css"
   },
   {
     "revision": "c3a1c4aea59c7634b05a5da1bbe57f5c",
     "url": "/Aevzag/icon.png"
   },
   {
-    "revision": "972df4e306cfe4b96628112ca5300578",
+    "revision": "35209c93a6b32b56874a20fef2a1cbbb",
     "url": "/Aevzag/index.html"
   },
   {
-    "revision": "b91ea89f9feffcc10528",
-    "url": "/Aevzag/js/app.e14c07dc.js"
+    "revision": "f2944d0df64fc79a25c8",
+    "url": "/Aevzag/js/app.0c3f0406.js"
   },
   {
-    "revision": "726c1c676d21559de013",
-    "url": "/Aevzag/js/chunk-vendors.501f0aab.js"
+    "revision": "c672a9ddda089a501934",
+    "url": "/Aevzag/js/chunk-vendors.6a599940.js"
+  },
+  {
+    "revision": "b6877bc57ebffe49d2c91af5a6238f22",
+    "url": "/Aevzag/languages/Arabic/catalogue.json"
+  },
+  {
+    "revision": "68257f94b597ac9de70a93dcc46269c4",
+    "url": "/Aevzag/languages/Arabic/converters.json"
+  },
+  {
+    "revision": "13df56af313f4104a10a0735eb2427ab",
+    "url": "/Aevzag/languages/Arabic/dictionary.json"
+  },
+  {
+    "revision": "9378e8239cba44cb588ad0fd036d7b49",
+    "url": "/Aevzag/languages/Arabic/flag.png"
+  },
+  {
+    "revision": "252b8bdc62f7384e5398bf47cd206fef",
+    "url": "/Aevzag/languages/Arabic/index.json"
+  },
+  {
+    "revision": "9682af4d09a03b25449e136d8c8931dd",
+    "url": "/Aevzag/languages/Arabic/phonology.json"
+  },
+  {
+    "revision": "3093f5b0d99d28c8f33ccbea5088b50a",
+    "url": "/Aevzag/languages/Arabic/sample.txt"
   },
   {
     "revision": "1c7e63e667e02de36b5a608842c92e55",
@@ -852,7 +888,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Aevzag/languages/Dargin/index.json"
   },
   {
-    "revision": "0673d20a3706479fb3eef36e12359456",
+    "revision": "1c26034dd90b3ce02e8a15e1ab928c51",
     "url": "/Aevzag/languages/Dargin/phonology.json"
   },
   {
@@ -880,7 +916,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Aevzag/languages/Ossetian/sample.txt"
   },
   {
-    "revision": "3e2062218a4bbeb05eb4bb21340ae5f5",
+    "revision": "b6877bc57ebffe49d2c91af5a6238f22",
     "url": "/Aevzag/languages/catalogue.json"
   },
   {
