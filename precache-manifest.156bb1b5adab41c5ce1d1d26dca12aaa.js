@@ -20,7 +20,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Aevzag/icon.png"
   },
   {
-    "revision": "1fd77a2e91a4d6ac6797842a26a7cf78",
+    "revision": "4948fcfdec742167e67dc9ce24c8f680",
     "url": "/Aevzag/index.html"
   },
   {
