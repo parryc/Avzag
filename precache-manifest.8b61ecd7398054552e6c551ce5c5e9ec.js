@@ -40,34 +40,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Aevzag/js/chunk-vendors.06985356.js"
   },
   {
-    "revision": "b6877bc57ebffe49d2c91af5a6238f22",
-    "url": "/Aevzag/languages/Arabic/catalogue.json"
-  },
-  {
-    "revision": "68257f94b597ac9de70a93dcc46269c4",
-    "url": "/Aevzag/languages/Arabic/converters.json"
-  },
-  {
-    "revision": "13df56af313f4104a10a0735eb2427ab",
-    "url": "/Aevzag/languages/Arabic/dictionary.json"
-  },
-  {
-    "revision": "9378e8239cba44cb588ad0fd036d7b49",
-    "url": "/Aevzag/languages/Arabic/flag.png"
-  },
-  {
-    "revision": "252b8bdc62f7384e5398bf47cd206fef",
-    "url": "/Aevzag/languages/Arabic/index.json"
-  },
-  {
-    "revision": "9682af4d09a03b25449e136d8c8931dd",
-    "url": "/Aevzag/languages/Arabic/phonology.json"
-  },
-  {
-    "revision": "3093f5b0d99d28c8f33ccbea5088b50a",
-    "url": "/Aevzag/languages/Arabic/sample.txt"
-  },
-  {
     "revision": "1c7e63e667e02de36b5a608842c92e55",
     "url": "/Aevzag/languages/Circassian/converters.json"
   },
@@ -920,7 +892,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Aevzag/languages/Ossetian/sample.txt"
   },
   {
-    "revision": "b6877bc57ebffe49d2c91af5a6238f22",
+    "revision": "3e2062218a4bbeb05eb4bb21340ae5f5",
     "url": "/Aevzag/languages/catalogue.json"
   },
   {
