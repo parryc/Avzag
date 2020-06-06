@@ -11,7 +11,7 @@ button, select {
     padding: 0 var(--margin-double);
 }
 
-button>.material-icons-outlined {
+button>.material-icons-outlined:not(:last-child) {
     margin-right: var(--margin);
 }
 
@@ -53,6 +53,8 @@ button.inline>.material-icons-outlined {
 }
 
 a {
+    display: flex;
+    place-items: center;
     color: var(--color-select);
     text-decoration: underline;
     padding: var(--margin)
