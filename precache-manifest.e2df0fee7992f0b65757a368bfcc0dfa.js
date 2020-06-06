@@ -1,7 +1,7 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "7766c370678e68bf9d06",
-    "url": "/Aevzag/css/app.68330233.css"
+    "revision": "10199540d82d54c71b60",
+    "url": "/Aevzag/css/app.6bb35149.css"
   },
   {
     "revision": "e98c251381db82bff4bc914956ac2e9c",
@@ -20,7 +20,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Aevzag/css/spaces.css"
   },
   {
-    "revision": "ea6e25c6453d38cdab3fd40002e65c32",
+    "revision": "2ecb3456d9fda99f770bbd76f1c41890",
     "url": "/Aevzag/css/text.css"
   },
   {
@@ -28,12 +28,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Aevzag/icon.png"
   },
   {
-    "revision": "2f67c65c8ede70124a00db92cf9e4bd6",
+    "revision": "1f73c77cfb46c25baf37ee33bba55bb4",
     "url": "/Aevzag/index.html"
   },
   {
-    "revision": "7766c370678e68bf9d06",
-    "url": "/Aevzag/js/app.7dd134c9.js"
+    "revision": "10199540d82d54c71b60",
+    "url": "/Aevzag/js/app.3120b2d9.js"
   },
   {
     "revision": "b0f164e9a71c904ee103",
