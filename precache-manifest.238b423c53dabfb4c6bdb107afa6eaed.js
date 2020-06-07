@@ -1,7 +1,7 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "2e035ae6ff1afdf26f04",
-    "url": "/Aevzag/css/app.77f83645.css"
+    "revision": "c8f0c03c6c01c2306833",
+    "url": "/Aevzag/css/app.a4fbfa14.css"
   },
   {
     "revision": "e98c251381db82bff4bc914956ac2e9c",
@@ -12,7 +12,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Aevzag/css/containers.css"
   },
   {
-    "revision": "ddb9e78a02a77c12f97bb9331f03f369",
+    "revision": "40bb5a8b1eb9f4ae2650ee58c3546731",
     "url": "/Aevzag/css/controls.css"
   },
   {
@@ -28,16 +28,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Aevzag/icon.png"
   },
   {
-    "revision": "a1654ef3d0f9c3390f20a0d36793a0d7",
+    "revision": "005dc4d09d1f6384a2f1a9f034dd908a",
     "url": "/Aevzag/index.html"
   },
   {
-    "revision": "2e035ae6ff1afdf26f04",
-    "url": "/Aevzag/js/app.bffbfe75.js"
+    "revision": "c8f0c03c6c01c2306833",
+    "url": "/Aevzag/js/app.15487f4a.js"
   },
   {
-    "revision": "b0f164e9a71c904ee103",
-    "url": "/Aevzag/js/chunk-vendors.e57ab46a.js"
+    "revision": "2d75667ed44d4010ae14",
+    "url": "/Aevzag/js/chunk-vendors.54947529.js"
   },
   {
     "revision": "1c7e63e667e02de36b5a608842c92e55",
@@ -48,7 +48,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Aevzag/languages/Circassian/flag.png"
   },
   {
-    "revision": "ee303b507927f57affe0e1ebb6049b93",
+    "revision": "52e1819193706f0552708aae9f4fcd0e",
     "url": "/Aevzag/languages/Circassian/phonology.json"
   },
   {
@@ -856,7 +856,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Aevzag/languages/Dargin/flag.png"
   },
   {
-    "revision": "1c26034dd90b3ce02e8a15e1ab928c51",
+    "revision": "ddabf083a911bbb63387f1dba0b9e1c4",
     "url": "/Aevzag/languages/Dargin/phonology.json"
   },
   {
