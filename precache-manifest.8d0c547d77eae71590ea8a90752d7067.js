@@ -848,7 +848,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Aevzag/languages/Dargin/Kaitag/audio/я.m4a"
   },
   {
-    "revision": "24e1d1bf4639a3dce6367fa57ddf2bc8",
+    "revision": "9adb74f40189023d6c52cdf2f0899a15",
     "url": "/Aevzag/languages/Dargin/converters.json"
   },
   {
