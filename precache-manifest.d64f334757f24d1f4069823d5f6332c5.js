@@ -1,18 +1,18 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "1d244613c38388a0939b",
-    "url": "/Aevzag/css/app.e41b2dfa.css"
+    "revision": "68b0c729680cf9de4afe",
+    "url": "/Aevzag/css/app.3bf029bd.css"
   },
   {
-    "revision": "e98c251381db82bff4bc914956ac2e9c",
+    "revision": "6f12d3095aeaa516b4d8aef1417f0fb6",
     "url": "/Aevzag/css/colors.css"
   },
   {
-    "revision": "be5d37368ebd28e5a88941e341f5c6b4",
+    "revision": "9855c1757b97d49318a38ed8c2ed8f37",
     "url": "/Aevzag/css/containers.css"
   },
   {
-    "revision": "5dad2fad6289b29cfac4d0f52704bf15",
+    "revision": "58c67d93ae51988f6f69caf88e6c0275",
     "url": "/Aevzag/css/controls.css"
   },
   {
@@ -28,12 +28,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Aevzag/icon.png"
   },
   {
-    "revision": "3b9dc6a3b58a75e580ce18d81da80a45",
+    "revision": "b5e29e5014ab8095fa08b9a4ec00af01",
     "url": "/Aevzag/index.html"
   },
   {
-    "revision": "1d244613c38388a0939b",
-    "url": "/Aevzag/js/app.d1352cef.js"
+    "revision": "68b0c729680cf9de4afe",
+    "url": "/Aevzag/js/app.81368ad4.js"
   },
   {
     "revision": "16aba3db0f69192320b9",
@@ -856,7 +856,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Aevzag/languages/Dargin/flag.png"
   },
   {
-    "revision": "ddabf083a911bbb63387f1dba0b9e1c4",
+    "revision": "d162b86bbc50081b216575d70b87fea2",
     "url": "/Aevzag/languages/Dargin/phonology.json"
   },
   {
@@ -876,7 +876,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Aevzag/languages/Ossetian/phonology.json"
   },
   {
-    "revision": "c6f5676483f2e0f0cd8ccb9bc8784721",
+    "revision": "7d22d664902bab08a85437c39e7cf792",
     "url": "/Aevzag/languages/Ossetian/sample.txt"
   },
   {
