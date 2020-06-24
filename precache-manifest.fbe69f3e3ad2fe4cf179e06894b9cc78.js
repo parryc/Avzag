@@ -1,18 +1,18 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "68b0c729680cf9de4afe",
-    "url": "/Aevzag/css/app.3bf029bd.css"
+    "revision": "eb98f04603c78b27ba9c",
+    "url": "/Aevzag/css/app.0df37ffa.css"
   },
   {
     "revision": "6f12d3095aeaa516b4d8aef1417f0fb6",
     "url": "/Aevzag/css/colors.css"
   },
   {
-    "revision": "9855c1757b97d49318a38ed8c2ed8f37",
+    "revision": "90a7b582e2277e388df642f9d6dad758",
     "url": "/Aevzag/css/containers.css"
   },
   {
-    "revision": "58c67d93ae51988f6f69caf88e6c0275",
+    "revision": "5d1cc52c5e0cb96fc83db97bd9b4506e",
     "url": "/Aevzag/css/controls.css"
   },
   {
@@ -20,7 +20,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Aevzag/css/spaces.css"
   },
   {
-    "revision": "41ac2d7417359f1d14c4c1f7fb2113ee",
+    "revision": "f0e00813c1d7e78953e70703017b371d",
     "url": "/Aevzag/css/text.css"
   },
   {
@@ -28,12 +28,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Aevzag/icon.png"
   },
   {
-    "revision": "b5e29e5014ab8095fa08b9a4ec00af01",
+    "revision": "c54065d80cbc138ca61ebe9304fd0b1d",
     "url": "/Aevzag/index.html"
   },
   {
-    "revision": "68b0c729680cf9de4afe",
-    "url": "/Aevzag/js/app.81368ad4.js"
+    "revision": "eb98f04603c78b27ba9c",
+    "url": "/Aevzag/js/app.534341cd.js"
   },
   {
     "revision": "16aba3db0f69192320b9",
@@ -856,8 +856,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Aevzag/languages/Dargin/flag.png"
   },
   {
-    "revision": "d162b86bbc50081b216575d70b87fea2",
+    "revision": "9239b0ba5c3c7bd64752d5f7a37ace46",
     "url": "/Aevzag/languages/Dargin/phonology.json"
+  },
+  {
+    "revision": "f0ad5ae00258288a5adfa7dc9db334ba",
+    "url": "/Aevzag/languages/Dargin/phrasebook.json"
   },
   {
     "revision": "3093f5b0d99d28c8f33ccbea5088b50a",
