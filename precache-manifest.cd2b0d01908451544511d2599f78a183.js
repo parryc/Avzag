@@ -1,7 +1,7 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "c8b37eac981ff6976ebe",
-    "url": "/Aevzag/css/app.106b8b76.css"
+    "revision": "b6d5d894ee0dbc981860",
+    "url": "/Aevzag/css/app.335f0ca2.css"
   },
   {
     "revision": "6f12d3095aeaa516b4d8aef1417f0fb6",
@@ -20,7 +20,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Aevzag/css/spaces.css"
   },
   {
-    "revision": "e4b7413d1a7382a74785792bf21c79d6",
+    "revision": "ae3faed0533725d8dc01cebb5c4793e6",
     "url": "/Aevzag/css/text.css"
   },
   {
@@ -28,12 +28,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Aevzag/icon.png"
   },
   {
-    "revision": "a0db1313f0418c3be5e06d5b0e54cb05",
+    "revision": "c303ff43a1a1c6dc6b39a7e7d6ece7e1",
     "url": "/Aevzag/index.html"
   },
   {
-    "revision": "c8b37eac981ff6976ebe",
-    "url": "/Aevzag/js/app.8280fa86.js"
+    "revision": "b6d5d894ee0dbc981860",
+    "url": "/Aevzag/js/app.073e495f.js"
   },
   {
     "revision": "52b2f49be2fdc6d48f31",
@@ -48,7 +48,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Aevzag/languages/Circassian/flag.png"
   },
   {
-    "revision": "2379eac9bbc228d5288442f9850fc2da",
+    "revision": "b06b06cf9ef6009e37ba60ae62bd20da",
     "url": "/Aevzag/languages/Circassian/phonology.json"
   },
   {
@@ -856,7 +856,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Aevzag/languages/Dargin/flag.png"
   },
   {
-    "revision": "fd7c44aa9442db1181659c01087b04a0",
+    "revision": "b35114e280aea2b41e8576446ca9367a",
     "url": "/Aevzag/languages/Dargin/phonology.json"
   },
   {
@@ -876,7 +876,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Aevzag/languages/Ossetian/flag.png"
   },
   {
-    "revision": "ab9101d63239aefc4c50ed2c31b75765",
+    "revision": "65ab9702b9ba219cd1fc51a8f466db95",
     "url": "/Aevzag/languages/Ossetian/phonology.json"
   },
   {
