@@ -48,7 +48,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Aevzag/languages/Circassian/flag.png"
   },
   {
-    "revision": "b06b06cf9ef6009e37ba60ae62bd20da",
+    "revision": "9a1c7ffdd0c1d0f363ed34ef6d0977b4",
     "url": "/Aevzag/languages/Circassian/phonology.json"
   },
   {
