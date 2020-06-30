@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "06e5c97c9e9cbd62a62e",
-    "url": "/Aevzag/css/app.ff35221b.css"
+    "revision": "3394e32635377ecf5591",
+    "url": "/Aevzag/css/app.c18077ba.css"
   },
   {
     "revision": "c33799a303656ee2db545ddbe182bbef",
     "url": "/Aevzag/icon.png"
   },
   {
-    "revision": "1cd6ea36a640b75b76662f7632cdfed7",
+    "revision": "c150dda5ad7cf2b1b3ced93565551382",
     "url": "/Aevzag/index.html"
   },
   {
-    "revision": "06e5c97c9e9cbd62a62e",
-    "url": "/Aevzag/js/app.eaa9afff.js"
+    "revision": "3394e32635377ecf5591",
+    "url": "/Aevzag/js/app.c69a6afb.js"
   },
   {
     "revision": "52b2f49be2fdc6d48f31",
@@ -848,7 +848,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Aevzag/languages/Dargin/sample.txt"
   },
   {
-    "revision": "b0227b4d761eb21e249229dd310bec08",
+    "revision": "83fda28e862cc4283b131444e71a8a0c",
     "url": "/Aevzag/languages/Ossetian/converters.json"
   },
   {
@@ -856,8 +856,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Aevzag/languages/Ossetian/flag.png"
   },
   {
-    "revision": "65ab9702b9ba219cd1fc51a8f466db95",
+    "revision": "357d252e5cd0af1dab3327f3aa67e13b",
     "url": "/Aevzag/languages/Ossetian/phonology.json"
+  },
+  {
+    "revision": "8a80554c91d9fca8acb82f023de02f11",
+    "url": "/Aevzag/languages/Ossetian/phrasebook.json"
   },
   {
     "revision": "7d22d664902bab08a85437c39e7cf792",
@@ -872,7 +876,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Aevzag/manifest.json"
   },
   {
-    "revision": "f9bd56d7b71d0f8948112d7a6bda5736",
+    "revision": "58122d2f31e44a7f3b9859b90c39897c",
     "url": "/Aevzag/variables.css"
   }
 ]);
