@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "030a73745474c8f77813",
-    "url": "/Aevzag/css/app.d3c29f28.css"
+    "revision": "af966d84d994c448c14f",
+    "url": "/Aevzag/css/app.ba10c2b0.css"
   },
   {
     "revision": "c33799a303656ee2db545ddbe182bbef",
     "url": "/Aevzag/icon.png"
   },
   {
-    "revision": "cbfad1b243cef6631482cfe59baae4d8",
+    "revision": "f89493a07d6785575b2c37d415c1f0a6",
     "url": "/Aevzag/index.html"
   },
   {
-    "revision": "030a73745474c8f77813",
-    "url": "/Aevzag/js/app.699ce77d.js"
+    "revision": "af966d84d994c448c14f",
+    "url": "/Aevzag/js/app.cb43f466.js"
   },
   {
-    "revision": "52b2f49be2fdc6d48f31",
-    "url": "/Aevzag/js/chunk-vendors.cdd2ae76.js"
+    "revision": "6953f98628e9d9d44707",
+    "url": "/Aevzag/js/chunk-vendors.f71ef621.js"
   },
   {
     "revision": "caa24792cc521b467dde1ed8b6f0f7cd",
@@ -28,7 +28,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Aevzag/languages/Circassian/flag.png"
   },
   {
-    "revision": "9a1c7ffdd0c1d0f363ed34ef6d0977b4",
+    "revision": "34f849ee1e6807dcaea0258f332e994f",
     "url": "/Aevzag/languages/Circassian/phonology.json"
   },
   {
@@ -836,7 +836,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Aevzag/languages/Dargin/flag.png"
   },
   {
-    "revision": "89c9878de4ba8c658f39c43555a24f5e",
+    "revision": "2ad4ca58dcda5115eef37a50a1d5599b",
     "url": "/Aevzag/languages/Dargin/phonology.json"
   },
   {
@@ -856,7 +856,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Aevzag/languages/Ossetian/flag.png"
   },
   {
-    "revision": "357d252e5cd0af1dab3327f3aa67e13b",
+    "revision": "b69144a32668f8d7a7b762b5b01a315b",
     "url": "/Aevzag/languages/Ossetian/phonology.json"
   },
   {
@@ -876,7 +876,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Aevzag/manifest.json"
   },
   {
-    "revision": "92f1970fc1ddfd6e4af7e36990950e8d",
+    "revision": "9e0ddecf10b18a56be919a5f26808970",
     "url": "/Aevzag/variables.css"
   }
 ]);
