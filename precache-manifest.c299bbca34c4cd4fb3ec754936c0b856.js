@@ -712,6 +712,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Aevzag/languages/Dargin/Kaitag/audio/чваква.mp3"
   },
   {
+    "revision": "30d27595574ef7823cfc262af50865d6",
+    "url": "/Aevzag/languages/Dargin/Kaitag/audio/чев.mp3"
+  },
+  {
     "revision": "41ade3a79e92b9983386947d522b8b3f",
     "url": "/Aevzag/languages/Dargin/Kaitag/audio/чехъил.mp3"
   },
@@ -750,10 +754,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "8d597ee8c70be2ce3deca3066402d4d5",
     "url": "/Aevzag/languages/Dargin/Kaitag/audio/ччве.mp3"
-  },
-  {
-    "revision": "30d27595574ef7823cfc262af50865d6",
-    "url": "/Aevzag/languages/Dargin/Kaitag/audio/чэв.mp3"
   },
   {
     "revision": "5aa118b7e564a7e40b620969c4b8fe40",
