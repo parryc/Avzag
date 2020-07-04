@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "2473923f082903cc457e",
-    "url": "/Aevzag/css/app.ce42cb15.css"
+    "revision": "26244aa27d168494aaf5",
+    "url": "/Aevzag/css/app.278126bc.css"
   },
   {
     "revision": "c33799a303656ee2db545ddbe182bbef",
     "url": "/Aevzag/icon.png"
   },
   {
-    "revision": "95211132296c17a04ff0554786764869",
+    "revision": "b6df0543080e909d54e4b592c94f7559",
     "url": "/Aevzag/index.html"
   },
   {
-    "revision": "2473923f082903cc457e",
-    "url": "/Aevzag/js/app.f8e7f048.js"
+    "revision": "26244aa27d168494aaf5",
+    "url": "/Aevzag/js/app.a8e07d3d.js"
   },
   {
     "revision": "86a1e80e7ff8a908af7d",
@@ -840,7 +840,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Aevzag/languages/Dargin/phonology.json"
   },
   {
-    "revision": "ee2fbdab13eb7e2da82742c56eeb2876",
+    "revision": "d08d8af8166fc5a0f946e332ad208720",
     "url": "/Aevzag/languages/Dargin/phrasebook.json"
   },
   {
