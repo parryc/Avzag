@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "c608c8fea5dd448be529",
-    "url": "/Aevzag/css/app.9a060ad3.css"
+    "revision": "2473923f082903cc457e",
+    "url": "/Aevzag/css/app.ce42cb15.css"
   },
   {
     "revision": "c33799a303656ee2db545ddbe182bbef",
     "url": "/Aevzag/icon.png"
   },
   {
-    "revision": "8301fe47376bdb905a2752c44949090f",
+    "revision": "95211132296c17a04ff0554786764869",
     "url": "/Aevzag/index.html"
   },
   {
-    "revision": "c608c8fea5dd448be529",
-    "url": "/Aevzag/js/app.1aa46282.js"
+    "revision": "2473923f082903cc457e",
+    "url": "/Aevzag/js/app.f8e7f048.js"
   },
   {
-    "revision": "6953f98628e9d9d44707",
-    "url": "/Aevzag/js/chunk-vendors.f71ef621.js"
+    "revision": "86a1e80e7ff8a908af7d",
+    "url": "/Aevzag/js/chunk-vendors.fdbd5eaf.js"
   },
   {
     "revision": "caa24792cc521b467dde1ed8b6f0f7cd",
@@ -854,6 +854,14 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "a8a0f454da4c0a35bdce71f97073ae14",
     "url": "/Aevzag/languages/Ossetian/flag.png"
+  },
+  {
+    "revision": "7048316586fed56083af8492690c5689",
+    "url": "/Aevzag/languages/Ossetian/map/Digor.png"
+  },
+  {
+    "revision": "ef4925431f4063755d328c6aca94b528",
+    "url": "/Aevzag/languages/Ossetian/map/Iron.png"
   },
   {
     "revision": "b69144a32668f8d7a7b762b5b01a315b",
