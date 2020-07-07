@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "bf0b2d898dcc216e5a06",
-    "url": "/Aevzag/css/app.eac72f30.css"
+    "revision": "130291a2a3c18b49e6cd",
+    "url": "/Aevzag/css/app.b58c28bb.css"
   },
   {
     "revision": "c33799a303656ee2db545ddbe182bbef",
     "url": "/Aevzag/icon.png"
   },
   {
-    "revision": "4795df976bc4ce6e4322916fad6170fb",
+    "revision": "b223b4d00687133ebd157533e3936a16",
     "url": "/Aevzag/index.html"
   },
   {
-    "revision": "bf0b2d898dcc216e5a06",
-    "url": "/Aevzag/js/app.868f5ce3.js"
+    "revision": "130291a2a3c18b49e6cd",
+    "url": "/Aevzag/js/app.62441ab8.js"
   },
   {
     "revision": "86a1e80e7ff8a908af7d",
@@ -854,14 +854,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "a8a0f454da4c0a35bdce71f97073ae14",
     "url": "/Aevzag/languages/Ossetian/flag.png"
-  },
-  {
-    "revision": "7048316586fed56083af8492690c5689",
-    "url": "/Aevzag/languages/Ossetian/map/Digor.png"
-  },
-  {
-    "revision": "ef4925431f4063755d328c6aca94b528",
-    "url": "/Aevzag/languages/Ossetian/map/Iron.png"
   },
   {
     "revision": "b69144a32668f8d7a7b762b5b01a315b",
