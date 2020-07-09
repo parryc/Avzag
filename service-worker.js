@@ -1,4 +1,4 @@
-importScripts("/Aevzag/precache-manifest.735822a1d4a658e0d1f055faf913b084.js", "https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
+importScripts("/Aevzag/precache-manifest.8bc3e72be22273f0214206e71cd8f748.js", "https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 // This is the service worker with the Cache-first network
 
