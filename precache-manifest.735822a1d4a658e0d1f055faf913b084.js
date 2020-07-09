@@ -32,6 +32,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Aevzag/languages/Circassian/phonology.json"
   },
   {
+    "revision": "6dd66c6d91780814386193245122e8a2",
+    "url": "/Aevzag/languages/Circassian/phrasebook.json"
+  },
+  {
     "revision": "be86b5964278ac8a93ef437fceb22d4b",
     "url": "/Aevzag/languages/Circassian/sample.txt"
   },
@@ -856,7 +860,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Aevzag/languages/Ossetian/flag.png"
   },
   {
-    "revision": "b69144a32668f8d7a7b762b5b01a315b",
+    "revision": "3b9bd0352a41e887933ec553b2d32b6c",
     "url": "/Aevzag/languages/Ossetian/phonology.json"
   },
   {
