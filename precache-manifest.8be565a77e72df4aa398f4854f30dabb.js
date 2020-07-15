@@ -852,7 +852,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Aevzag/languages/Dargin/sample.txt"
   },
   {
-    "revision": "08094e2d884e8a9878783f885706209f",
+    "revision": "2d499a3f643661f7bfc497b398647f82",
     "url": "/Aevzag/languages/Ossetian/converters.json"
   },
   {
@@ -860,7 +860,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Aevzag/languages/Ossetian/flag.png"
   },
   {
-    "revision": "8ad6e9dabac91927170b722a037bc6b8",
+    "revision": "e15f7033af54ed6415dc25163ce036ab",
     "url": "/Aevzag/languages/Ossetian/phonology.json"
   },
   {
