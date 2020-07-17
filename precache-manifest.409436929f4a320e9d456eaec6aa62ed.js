@@ -856,12 +856,40 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Aevzag/languages/Ossetian/Iron/audio/абон.mp3"
   },
   {
+    "revision": "00a02211e523bc977a0963a7f5aa9920",
+    "url": "/Aevzag/languages/Ossetian/Iron/audio/байзӕддаг.mp3"
+  },
+  {
     "revision": "dea0434456f54bbc8b294b4bd07a8337",
     "url": "/Aevzag/languages/Ossetian/Iron/audio/балц.mp3"
   },
   {
+    "revision": "2b635b6d8805436102297aaefd447656",
+    "url": "/Aevzag/languages/Ossetian/Iron/audio/гага.mp3"
+  },
+  {
+    "revision": "3f72491c25e53e9b888bd88141869518",
+    "url": "/Aevzag/languages/Ossetian/Iron/audio/гуыбын.mp3"
+  },
+  {
+    "revision": "954dc9ab2c65482f337d90ba0938aafa",
+    "url": "/Aevzag/languages/Ossetian/Iron/audio/джитъри.mp3"
+  },
+  {
+    "revision": "b1c036412eb4e7c2a511847377f8da15",
+    "url": "/Aevzag/languages/Ossetian/Iron/audio/дыргъ.mp3"
+  },
+  {
+    "revision": "f8dd41978e03e252abe40bf6d7f79f5a",
+    "url": "/Aevzag/languages/Ossetian/Iron/audio/дӕндаг.mp3"
+  },
+  {
     "revision": "6c357111a40097e64add1326200ebd61",
     "url": "/Aevzag/languages/Ossetian/Iron/audio/егъау.mp3"
+  },
+  {
+    "revision": "d1fdb8c86a78a469345959e153176c03",
+    "url": "/Aevzag/languages/Ossetian/Iron/audio/зӕд.mp3"
   },
   {
     "revision": "e11c6efadf3639b21a3a22202f30b653",
@@ -872,8 +900,24 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Aevzag/languages/Ossetian/Iron/audio/къалиу.mp3"
   },
   {
+    "revision": "98b3027c75eb562f29db9d6755e08ed1",
+    "url": "/Aevzag/languages/Ossetian/Iron/audio/къӕбӕр.mp3"
+  },
+  {
     "revision": "7bbb9e6f2a0ffcc9d751a0d58f47968d",
     "url": "/Aevzag/languages/Ossetian/Iron/audio/обау.mp3"
+  },
+  {
+    "revision": "5fd3302c594269b24f5ac7b30d346e13",
+    "url": "/Aevzag/languages/Ossetian/Iron/audio/пурти.mp3"
+  },
+  {
+    "revision": "a9dde44223beffc9c653f9f0996f2c66",
+    "url": "/Aevzag/languages/Ossetian/Iron/audio/пъазбын.mp3"
+  },
+  {
+    "revision": "60e632c27d69eca39f625928c642bdf8",
+    "url": "/Aevzag/languages/Ossetian/Iron/audio/пъырыпъыф.mp3"
   },
   {
     "revision": "d1de29a0a2d6f10023fec658be35a26d",
@@ -882,6 +926,18 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "7c8859b624053de6aca37403f4168e9e",
     "url": "/Aevzag/languages/Ossetian/Iron/audio/ралыгъд.mp3"
+  },
+  {
+    "revision": "e1ce70c62679611e9e627f28d85b48af",
+    "url": "/Aevzag/languages/Ossetian/Iron/audio/тъӕпӕн.mp3"
+  },
+  {
+    "revision": "a74a7e2787330d10445dbe39aba2df11",
+    "url": "/Aevzag/languages/Ossetian/Iron/audio/тӕрхондон.mp3"
+  },
+  {
+    "revision": "a94c10ead397b24eb9c2d31d4425ab7b",
+    "url": "/Aevzag/languages/Ossetian/Iron/audio/уазӕгуаты.mp3"
   },
   {
     "revision": "35539c3b432720867be07b38429fb2ff",
@@ -896,8 +952,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Aevzag/languages/Ossetian/Iron/audio/уыгӕрдӕн.mp3"
   },
   {
+    "revision": "114b9229afbd627c7a7e51a33d91c1fb",
+    "url": "/Aevzag/languages/Ossetian/Iron/audio/фарст.mp3"
+  },
+  {
     "revision": "f26999fb28750e816ed2e81d8837d253",
     "url": "/Aevzag/languages/Ossetian/Iron/audio/худын.mp3"
+  },
+  {
+    "revision": "00179d9846fe374e63ae3eccac0dbdeb",
+    "url": "/Aevzag/languages/Ossetian/Iron/audio/ӕппӕтон.mp3"
   },
   {
     "revision": "fae6348a03b742a44a729d8e1455fc3c",
