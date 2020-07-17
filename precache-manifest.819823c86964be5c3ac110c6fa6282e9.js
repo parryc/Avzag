@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "b1c4865ef477a2d0627d",
-    "url": "/Aevzag/css/app.696245f8.css"
+    "revision": "45b34477135eae829de6",
+    "url": "/Aevzag/css/app.01493dca.css"
   },
   {
     "revision": "c33799a303656ee2db545ddbe182bbef",
     "url": "/Aevzag/icon.png"
   },
   {
-    "revision": "750d8048739a91e77e4fd19c6adc0259",
+    "revision": "898d3fc1cc2eae23d14e54e1c3d9d692",
     "url": "/Aevzag/index.html"
   },
   {
-    "revision": "b1c4865ef477a2d0627d",
-    "url": "/Aevzag/js/app.52f1050c.js"
+    "revision": "45b34477135eae829de6",
+    "url": "/Aevzag/js/app.56e7162f.js"
   },
   {
     "revision": "86a1e80e7ff8a908af7d",
@@ -852,56 +852,56 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Aevzag/languages/Dargin/sample.txt"
   },
   {
-    "revision": "1951071b87c5283a932b86af7a81398f",
-    "url": "/Aevzag/languages/Ossetian/Iron/audio/абон.ogg"
+    "revision": "ced1457eb7f6a563baec4c2996591c9d",
+    "url": "/Aevzag/languages/Ossetian/Iron/audio/абон.mp3"
   },
   {
-    "revision": "3c4e2764aaf1073035ec22b80a5d1458",
-    "url": "/Aevzag/languages/Ossetian/Iron/audio/балц.ogg"
+    "revision": "dea0434456f54bbc8b294b4bd07a8337",
+    "url": "/Aevzag/languages/Ossetian/Iron/audio/балц.mp3"
   },
   {
-    "revision": "12e01a8ae3cb589ec81e28a32c99911a",
-    "url": "/Aevzag/languages/Ossetian/Iron/audio/егъау.ogg"
+    "revision": "6c357111a40097e64add1326200ebd61",
+    "url": "/Aevzag/languages/Ossetian/Iron/audio/егъау.mp3"
   },
   {
-    "revision": "60f95e82d857406f4c4be7d42673855f",
-    "url": "/Aevzag/languages/Ossetian/Iron/audio/изӕр.ogg"
+    "revision": "e11c6efadf3639b21a3a22202f30b653",
+    "url": "/Aevzag/languages/Ossetian/Iron/audio/изӕр.mp3"
   },
   {
-    "revision": "cf4b2471a01545a82bb79703181cd428",
-    "url": "/Aevzag/languages/Ossetian/Iron/audio/къалиу.ogg"
+    "revision": "17d19058b24438b8ef9f7f201957c08b",
+    "url": "/Aevzag/languages/Ossetian/Iron/audio/къалиу.mp3"
   },
   {
-    "revision": "7ab465d870b794a6987f95272a2bead4",
-    "url": "/Aevzag/languages/Ossetian/Iron/audio/обау.ogg"
+    "revision": "7bbb9e6f2a0ffcc9d751a0d58f47968d",
+    "url": "/Aevzag/languages/Ossetian/Iron/audio/обау.mp3"
   },
   {
-    "revision": "ccded50b8d6e88a8a1addc3c1628117b",
-    "url": "/Aevzag/languages/Ossetian/Iron/audio/райсом.ogg"
+    "revision": "d1de29a0a2d6f10023fec658be35a26d",
+    "url": "/Aevzag/languages/Ossetian/Iron/audio/райсом.mp3"
   },
   {
-    "revision": "281b272fc17ac89b300bae7c8d2f0061",
-    "url": "/Aevzag/languages/Ossetian/Iron/audio/ралыгъд.ogg"
+    "revision": "7c8859b624053de6aca37403f4168e9e",
+    "url": "/Aevzag/languages/Ossetian/Iron/audio/ралыгъд.mp3"
   },
   {
-    "revision": "725ce2a596e791057640eb5937f47898",
-    "url": "/Aevzag/languages/Ossetian/Iron/audio/урсзачъе.ogg"
+    "revision": "35539c3b432720867be07b38429fb2ff",
+    "url": "/Aevzag/languages/Ossetian/Iron/audio/урсзачъе.mp3"
   },
   {
-    "revision": "255135f09c38ba3b00b75335f8c598ed",
-    "url": "/Aevzag/languages/Ossetian/Iron/audio/усгур.ogg"
+    "revision": "31b0a5edd5972fa891a660cd5b5ceb55",
+    "url": "/Aevzag/languages/Ossetian/Iron/audio/усгур.mp3"
   },
   {
-    "revision": "202f5bea337dd32d5b8053afcb8167cb",
-    "url": "/Aevzag/languages/Ossetian/Iron/audio/уыгӕрдӕн.ogg"
+    "revision": "ae22c285ce5a095dc4cf027aedaf53c1",
+    "url": "/Aevzag/languages/Ossetian/Iron/audio/уыгӕрдӕн.mp3"
   },
   {
-    "revision": "dcbc0e3fea0fd2838e8b2d6e2c5929dd",
-    "url": "/Aevzag/languages/Ossetian/Iron/audio/худын.ogg"
+    "revision": "f26999fb28750e816ed2e81d8837d253",
+    "url": "/Aevzag/languages/Ossetian/Iron/audio/худын.mp3"
   },
   {
-    "revision": "2a0237089756ed4dfeaa75b1bbabbd50",
-    "url": "/Aevzag/languages/Ossetian/Iron/audio/ӕххуыс.ogg"
+    "revision": "fae6348a03b742a44a729d8e1455fc3c",
+    "url": "/Aevzag/languages/Ossetian/Iron/audio/ӕххуыс.mp3"
   },
   {
     "revision": "359161ebfc2a50fce9ca33c4323cf7cc",
