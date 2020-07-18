@@ -1128,7 +1128,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Aevzag/languages/Ossetian/Iron/audio/хӕрӕг.mp3"
   },
   {
-    "revision": "a1221dfdeb19161d962f8adaa3c4e533",
+    "revision": "bb1bcb5af40d9deb08925a0632289678",
     "url": "/Aevzag/languages/Ossetian/Iron/audio/цард.mp3"
   },
   {
