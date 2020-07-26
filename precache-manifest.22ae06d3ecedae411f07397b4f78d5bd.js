@@ -852,6 +852,118 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Aevzag/languages/Dargin/sample.txt"
   },
   {
+    "revision": "a255fbff4ad100504aaaa532215ecbe8",
+    "url": "/Aevzag/languages/Ossetian/Digor/audio/аййев.mp3"
+  },
+  {
+    "revision": "59620fa690b9cb893fa8402d950d1013",
+    "url": "/Aevzag/languages/Ossetian/Digor/audio/арӕх.mp3"
+  },
+  {
+    "revision": "13391cdded381531b9572686c94cfc92",
+    "url": "/Aevzag/languages/Ossetian/Digor/audio/базицъарӕ.mp3"
+  },
+  {
+    "revision": "ff5f47259170009621d052753bcccbc3",
+    "url": "/Aevzag/languages/Ossetian/Digor/audio/базмӕлдӕ.mp3"
+  },
+  {
+    "revision": "394a0da805252d7cd62b09b67de74428",
+    "url": "/Aevzag/languages/Ossetian/Digor/audio/гуайæн.mp3"
+  },
+  {
+    "revision": "5eba0231cf4c832359683d31fb0e2908",
+    "url": "/Aevzag/languages/Ossetian/Digor/audio/гуӕдзӕга.mp3"
+  },
+  {
+    "revision": "d95493c02c79a8c5e5a9410f095b828a",
+    "url": "/Aevzag/languages/Ossetian/Digor/audio/гӕбӕло.mp3"
+  },
+  {
+    "revision": "7e8d3808ac40641d73d39a136de8b80c",
+    "url": "/Aevzag/languages/Ossetian/Digor/audio/давой.mp3"
+  },
+  {
+    "revision": "b51b91346652ccb102cfb66ded91aeff",
+    "url": "/Aevzag/languages/Ossetian/Digor/audio/езгард.mp3"
+  },
+  {
+    "revision": "553083d7d38a4d13fc2d30eeae9523f5",
+    "url": "/Aevzag/languages/Ossetian/Digor/audio/ерисхӕ.mp3"
+  },
+  {
+    "revision": "e4706a16a660b85553dc3b4403e72c76",
+    "url": "/Aevzag/languages/Ossetian/Digor/audio/зард.mp3"
+  },
+  {
+    "revision": "4c276b5ae5a35ff5ee289181315804ab",
+    "url": "/Aevzag/languages/Ossetian/Digor/audio/истӕн.mp3"
+  },
+  {
+    "revision": "8ec6e7a424b1e515eaf213cda9f60d5f",
+    "url": "/Aevzag/languages/Ossetian/Digor/audio/исӕмпъохун.mp3"
+  },
+  {
+    "revision": "6a4b5ef72dc62c0f52c21d444ee0a83c",
+    "url": "/Aevzag/languages/Ossetian/Digor/audio/келбет.mp3"
+  },
+  {
+    "revision": "f938a88c1432cfd15753519ef6dfad24",
+    "url": "/Aevzag/languages/Ossetian/Digor/audio/кизгӕ.mp3"
+  },
+  {
+    "revision": "97b9c869265efbec6cd0c2f64b17a9df",
+    "url": "/Aevzag/languages/Ossetian/Digor/audio/кӕдзос.mp3"
+  },
+  {
+    "revision": "04c21ebb2b3aa6e720c9da7d8e1c049f",
+    "url": "/Aevzag/languages/Ossetian/Digor/audio/пъӕра.mp3"
+  },
+  {
+    "revision": "8a0ae320da3a80a0c42e9166c4779dfe",
+    "url": "/Aevzag/languages/Ossetian/Digor/audio/пӕлӕз.mp3"
+  },
+  {
+    "revision": "c83813d6cfe0703b3b54eb40bf9c650e",
+    "url": "/Aevzag/languages/Ossetian/Digor/audio/рӕмпӕ.mp3"
+  },
+  {
+    "revision": "11c665b09d2c24cf62ec07af39a122c6",
+    "url": "/Aevzag/languages/Ossetian/Digor/audio/силгоймаг.mp3"
+  },
+  {
+    "revision": "34859ac8564caad240b316629880d1b7",
+    "url": "/Aevzag/languages/Ossetian/Digor/audio/табӕт.mp3"
+  },
+  {
+    "revision": "d836898ceb7b96e941703b77aaf1fa60",
+    "url": "/Aevzag/languages/Ossetian/Digor/audio/тъибила.mp3"
+  },
+  {
+    "revision": "986b4276bf0ba09e77e863d101424e36",
+    "url": "/Aevzag/languages/Ossetian/Digor/audio/удзӕл.mp3"
+  },
+  {
+    "revision": "cbe4a510638fc2be476b7ffc858615c3",
+    "url": "/Aevzag/languages/Ossetian/Digor/audio/улдугъ.mp3"
+  },
+  {
+    "revision": "90537a0c3ed7ac79ee2a9059d4858931",
+    "url": "/Aevzag/languages/Ossetian/Digor/audio/уодӕнст.mp3"
+  },
+  {
+    "revision": "10e5008080bc4337abd2b51032463682",
+    "url": "/Aevzag/languages/Ossetian/Digor/audio/уосӕ.mp3"
+  },
+  {
+    "revision": "5400b37463dd9dd39e2d7febab9a1cb4",
+    "url": "/Aevzag/languages/Ossetian/Digor/audio/ӕртитъафуг.mp3"
+  },
+  {
+    "revision": "afe1b9bd0964fe6c2df9cc41114aa8aa",
+    "url": "/Aevzag/languages/Ossetian/Digor/audio/ӕсхъод.mp3"
+  },
+  {
     "revision": "ced1457eb7f6a563baec4c2996591c9d",
     "url": "/Aevzag/languages/Ossetian/Iron/audio/абон.mp3"
   },
@@ -1192,7 +1304,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Aevzag/languages/Ossetian/flag.png"
   },
   {
-    "revision": "b81a633ffaee179dea351645043fbf46",
+    "revision": "289223478a9c8a118718c022e34d506d",
     "url": "/Aevzag/languages/Ossetian/phonology.json"
   },
   {
