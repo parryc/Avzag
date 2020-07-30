@@ -32,7 +32,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Aevzag/languages/Circassian/phonology.json"
   },
   {
-    "revision": "bc84d7de1db925373386a3e60f51ae90",
+    "revision": "20ddb3b3aade204f24c69835ad46d1d9",
     "url": "/Aevzag/languages/Circassian/phrasebook.json"
   },
   {
