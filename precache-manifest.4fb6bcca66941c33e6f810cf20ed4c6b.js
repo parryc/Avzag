@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "0240de74479d77db1209",
-    "url": "/Aevzag/css/app.3a113eb2.css"
+    "revision": "a83db62ddc1858ae3c41",
+    "url": "/Aevzag/css/app.84bd88df.css"
   },
   {
     "revision": "c33799a303656ee2db545ddbe182bbef",
     "url": "/Aevzag/icon.png"
   },
   {
-    "revision": "c032a1e70d50c49b65332be22963aa66",
+    "revision": "52d653e47581064491d6aa3a5bc2a113",
     "url": "/Aevzag/index.html"
   },
   {
-    "revision": "0240de74479d77db1209",
-    "url": "/Aevzag/js/app.127ccd1f.js"
+    "revision": "a83db62ddc1858ae3c41",
+    "url": "/Aevzag/js/app.edebeada.js"
   },
   {
     "revision": "86a1e80e7ff8a908af7d",
@@ -32,7 +32,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Aevzag/languages/Circassian/phonology.json"
   },
   {
-    "revision": "6dd66c6d91780814386193245122e8a2",
+    "revision": "bc84d7de1db925373386a3e60f51ae90",
     "url": "/Aevzag/languages/Circassian/phrasebook.json"
   },
   {
