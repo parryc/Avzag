@@ -1492,7 +1492,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Aevzag/languages/Ossetian/phonology.json"
   },
   {
-    "revision": "fb6166f740f2805245f0881da89b3510",
+    "revision": "6a0cafe3ad90d9bb547dad2c5906036a",
     "url": "/Aevzag/languages/Ossetian/phrasebook.json"
   },
   {
