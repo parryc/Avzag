@@ -1122,6 +1122,15 @@
             "affricate"
         ],
         "uses": {
+            "Iron": [
+                {
+                    "grapheme": "дз",
+                    "samples": [
+                        "*уадздзæн"
+                    ],
+                    "note": "Only occurs when doubled."
+                }
+            ],
             "Digor": [
                 {
                     "grapheme": "дз",
@@ -1174,6 +1183,15 @@
             "affricate"
         ],
         "uses": {
+            "Iron": [
+                {
+                    "grapheme": "ц",
+                    "samples": [
+                        "*ныццæвын"
+                    ],
+                    "note": "Only occurs when doubled, corresponds to /t͡ʃ/ in Kudar speech."
+                }
+            ],
             "Digor": [
                 {
                     "grapheme": "ц",
@@ -1372,17 +1390,22 @@
             "glottal",
             "fricative"
         ],
+        "note": "Only occurs in interjections.",
         "uses": {
             "Digor": [
                 {
                     "grapheme": "гъ",
-                    "samples": []
+                    "samples": [
+                        "*гъӕйтт"
+                    ]
                 }
             ],
             "Iron": [
                 {
                     "grapheme": "гъ",
-                    "samples": []
+                    "samples": [
+                        "*гъопп"
+                    ]
                 }
             ]
         }
