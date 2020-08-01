@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "75b2f9368563ab8126d6",
-    "url": "/Aevzag/css/app.2e6cc903.css"
+    "revision": "e90917f49b23a7e8b860",
+    "url": "/Aevzag/css/app.f24b5455.css"
   },
   {
     "revision": "c33799a303656ee2db545ddbe182bbef",
     "url": "/Aevzag/icon.png"
   },
   {
-    "revision": "0c182234fcfa6a3268c051c7ddc3d6e6",
+    "revision": "b56d92718a2b33a6ef1b8b3692dba515",
     "url": "/Aevzag/index.html"
   },
   {
-    "revision": "75b2f9368563ab8126d6",
-    "url": "/Aevzag/js/app.cc0bb187.js"
+    "revision": "e90917f49b23a7e8b860",
+    "url": "/Aevzag/js/app.cb467bf8.js"
   },
   {
     "revision": "86a1e80e7ff8a908af7d",
@@ -1480,7 +1480,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Aevzag/languages/Ossetian/Iron/audio/ӕххуыс.mp3"
   },
   {
-    "revision": "359161ebfc2a50fce9ca33c4323cf7cc",
+    "revision": "e2ce41093c014d55e9580a6ca2b3a82d",
     "url": "/Aevzag/languages/Ossetian/converters.json"
   },
   {
