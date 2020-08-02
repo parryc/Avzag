@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "17fd79e6ef1d2a42a6d8",
-    "url": "/Aevzag/css/app.e879ef99.css"
+    "revision": "c423cffaf1ef434d22ec",
+    "url": "/Aevzag/css/app.26b94151.css"
   },
   {
     "revision": "c33799a303656ee2db545ddbe182bbef",
     "url": "/Aevzag/icon.png"
   },
   {
-    "revision": "84e95f0faac1fc4daa28ff7a058ac033",
+    "revision": "dd51ecb0fc719f168577ad618997a890",
     "url": "/Aevzag/index.html"
   },
   {
-    "revision": "17fd79e6ef1d2a42a6d8",
-    "url": "/Aevzag/js/app.86264aac.js"
+    "revision": "c423cffaf1ef434d22ec",
+    "url": "/Aevzag/js/app.e968e622.js"
   },
   {
     "revision": "86a1e80e7ff8a908af7d",
@@ -1500,7 +1500,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Aevzag/languages/Ossetian/sample.txt"
   },
   {
-    "revision": "2ae589c4a42ef8780ae9e6134db49b35",
+    "revision": "9572617d596f6b83bdf32ec7d17da755",
     "url": "/Aevzag/languages/catalogue.json"
   },
   {
