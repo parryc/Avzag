@@ -1480,7 +1480,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Aevzag/languages/Ossetian/Iron/audio/ӕххуыс.mp3"
   },
   {
-    "revision": "e2ce41093c014d55e9580a6ca2b3a82d",
+    "revision": "fe538947f6336df0ef51a0405e42174f",
     "url": "/Aevzag/languages/Ossetian/converters.json"
   },
   {
@@ -1488,7 +1488,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Aevzag/languages/Ossetian/flag.png"
   },
   {
-    "revision": "f6d2fa66767471f1c30ec347bd84920a",
+    "revision": "803b7f277e603d8f3f79e202893e6497",
     "url": "/Aevzag/languages/Ossetian/phonology.json"
   },
   {
