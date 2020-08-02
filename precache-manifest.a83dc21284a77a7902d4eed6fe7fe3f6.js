@@ -881,7 +881,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   },
   {
     "revision": "394a0da805252d7cd62b09b67de74428",
-    "url": "/Aevzag/languages/Ossetian/Digor/audio/гуайæн.mp3"
+    "url": "/Aevzag/languages/Ossetian/Digor/audio/гуайӕн.mp3"
   },
   {
     "revision": "5eba0231cf4c832359683d31fb0e2908",
@@ -1480,7 +1480,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Aevzag/languages/Ossetian/Iron/audio/ӕххуыс.mp3"
   },
   {
-    "revision": "fe538947f6336df0ef51a0405e42174f",
+    "revision": "db40b00b440ed1304cedf4761b4a594e",
     "url": "/Aevzag/languages/Ossetian/converters.json"
   },
   {
@@ -1488,7 +1488,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Aevzag/languages/Ossetian/flag.png"
   },
   {
-    "revision": "803b7f277e603d8f3f79e202893e6497",
+    "revision": "b9180e15796a3df9d1fab7fc94a5dbef",
     "url": "/Aevzag/languages/Ossetian/phonology.json"
   },
   {
