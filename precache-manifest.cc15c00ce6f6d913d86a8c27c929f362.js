@@ -68,14 +68,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Aevzag/languages/Dargin/Akusha/audio/гьая.mp3"
   },
   {
-    "revision": "ba7f0a505b355c91d03e1aec5fcfb0ad",
-    "url": "/Aevzag/languages/Dargin/Akusha/audio/гӏинцӏ.mp3"
-  },
-  {
-    "revision": "52b948bf712fc435c3e001cf9c1399ba",
-    "url": "/Aevzag/languages/Dargin/Akusha/audio/даргон.mp3"
-  },
-  {
     "revision": "e1a8316d5be5e3888ef39343c1c37bd1",
     "url": "/Aevzag/languages/Dargin/Akusha/audio/дергъ.mp3"
   },
@@ -97,7 +89,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   },
   {
     "revision": "0ff92718e54b60405d1830fc51ea455d",
-    "url": "/Aevzag/languages/Dargin/Akusha/audio/къайгьи.mp3"
+    "url": "/Aevzag/languages/Dargin/Akusha/audio/къайгъи.mp3"
   },
   {
     "revision": "17db6522273038fc45628f98003284db",
@@ -1012,7 +1004,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Aevzag/languages/Dargin/flag.png"
   },
   {
-    "revision": "1cf5822cdda72e0c8050121f90751f81",
+    "revision": "eab6905e6b4b53471ddf6a8e1536e3a4",
     "url": "/Aevzag/languages/Dargin/phonology.json"
   },
   {
