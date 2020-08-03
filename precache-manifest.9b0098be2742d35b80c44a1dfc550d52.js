@@ -28,7 +28,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Aevzag/languages/Circassian/flag.png"
   },
   {
-    "revision": "03a7cbf73f8450b9bee2b4298e835cb5",
+    "revision": "ef117ba6e1b21920e5c1f46092c66889",
     "url": "/Aevzag/languages/Circassian/phonology.json"
   },
   {
@@ -38,6 +38,174 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "be86b5964278ac8a93ef437fceb22d4b",
     "url": "/Aevzag/languages/Circassian/sample.txt"
+  },
+  {
+    "revision": "65b31de99b1fc4d942fbb4950749b9fa",
+    "url": "/Aevzag/languages/Dargin/Akusha/audio/асар.mp3"
+  },
+  {
+    "revision": "2d0f9e4b3f5f23954555ced0614f2adc",
+    "url": "/Aevzag/languages/Dargin/Akusha/audio/бугъа.mp3"
+  },
+  {
+    "revision": "1ab91c8245e221b22953ca9554337c27",
+    "url": "/Aevzag/languages/Dargin/Akusha/audio/варгьи.mp3"
+  },
+  {
+    "revision": "63c13a863fc865dd8253d257222eaf95",
+    "url": "/Aevzag/languages/Dargin/Akusha/audio/галга.mp3"
+  },
+  {
+    "revision": "de50fe9e5188a4b0ce9ce0d2521e4d2e",
+    "url": "/Aevzag/languages/Dargin/Akusha/audio/гъум.mp3"
+  },
+  {
+    "revision": "995704a512e486b68d12c1779412fec1",
+    "url": "/Aevzag/languages/Dargin/Akusha/audio/гьая.mp3"
+  },
+  {
+    "revision": "ba7f0a505b355c91d03e1aec5fcfb0ad",
+    "url": "/Aevzag/languages/Dargin/Akusha/audio/гӏинцӏ.mp3"
+  },
+  {
+    "revision": "52b948bf712fc435c3e001cf9c1399ba",
+    "url": "/Aevzag/languages/Dargin/Akusha/audio/даргон.mp3"
+  },
+  {
+    "revision": "e1a8316d5be5e3888ef39343c1c37bd1",
+    "url": "/Aevzag/languages/Dargin/Akusha/audio/дергъ.mp3"
+  },
+  {
+    "revision": "d27d7f40d0893ff54823f6c3b8fe092c",
+    "url": "/Aevzag/languages/Dargin/Akusha/audio/журуга.mp3"
+  },
+  {
+    "revision": "692c1c91859fde9da20dfdf1c3d99149",
+    "url": "/Aevzag/languages/Dargin/Akusha/audio/зубарти.mp3"
+  },
+  {
+    "revision": "1016c6031fa9aa9df042fa644d832b1a",
+    "url": "/Aevzag/languages/Dargin/Akusha/audio/игит.mp3"
+  },
+  {
+    "revision": "9cda688bd929cc9c24d60d22b6bcc298",
+    "url": "/Aevzag/languages/Dargin/Akusha/audio/кам.mp3"
+  },
+  {
+    "revision": "0ff92718e54b60405d1830fc51ea455d",
+    "url": "/Aevzag/languages/Dargin/Akusha/audio/къайгьи.mp3"
+  },
+  {
+    "revision": "17db6522273038fc45628f98003284db",
+    "url": "/Aevzag/languages/Dargin/Akusha/audio/къаркъа.mp3"
+  },
+  {
+    "revision": "3752fedf86cc112c43d162d8dc8f4bcc",
+    "url": "/Aevzag/languages/Dargin/Akusha/audio/кьацӏ.mp3"
+  },
+  {
+    "revision": "f1ed18e69b836a38d6b7fbf41bad0e54",
+    "url": "/Aevzag/languages/Dargin/Akusha/audio/кӏапӏи.mp3"
+  },
+  {
+    "revision": "c425f2300fe038f358ce1870bd7d557a",
+    "url": "/Aevzag/languages/Dargin/Akusha/audio/лами.mp3"
+  },
+  {
+    "revision": "65b1bf095fc9411bdc2e1690c35b8243",
+    "url": "/Aevzag/languages/Dargin/Akusha/audio/мицӏираг.mp3"
+  },
+  {
+    "revision": "256a69d7a3ff0ab1720532eda4ab0c90",
+    "url": "/Aevzag/languages/Dargin/Akusha/audio/насаб.mp3"
+  },
+  {
+    "revision": "7e3d5fe8def9a4d9b23ae013b88e6d58",
+    "url": "/Aevzag/languages/Dargin/Akusha/audio/ниъ.mp3"
+  },
+  {
+    "revision": "86bb53fc35cf2ef9dc1bc98aa8d977e6",
+    "url": "/Aevzag/languages/Dargin/Akusha/audio/партал.mp3"
+  },
+  {
+    "revision": "b4b54e2888a221d48621075b54c6cce0",
+    "url": "/Aevzag/languages/Dargin/Akusha/audio/пӏялцӏикӏ.mp3"
+  },
+  {
+    "revision": "a642ceb573465689abaabc606bca279d",
+    "url": "/Aevzag/languages/Dargin/Akusha/audio/рурси.mp3"
+  },
+  {
+    "revision": "3cc8d86ec5ee0199dbe59991f57dedb8",
+    "url": "/Aevzag/languages/Dargin/Akusha/audio/сири.mp3"
+  },
+  {
+    "revision": "6139dd5d83809a8a82afd4c5489dd5f9",
+    "url": "/Aevzag/languages/Dargin/Akusha/audio/тухтур.mp3"
+  },
+  {
+    "revision": "27c19c99c6ef45446f4f68ee21f17e80",
+    "url": "/Aevzag/languages/Dargin/Akusha/audio/тӏутӏи.mp3"
+  },
+  {
+    "revision": "2a0427d13c64dc8e681e87e00aacb394",
+    "url": "/Aevzag/languages/Dargin/Akusha/audio/урши.mp3"
+  },
+  {
+    "revision": "5d3e5295e8ebdc7e302bf6ccc4729d40",
+    "url": "/Aevzag/languages/Dargin/Akusha/audio/халадудеш.mp3"
+  },
+  {
+    "revision": "08e8b9d1298ceed228df2e6dc9023cd7",
+    "url": "/Aevzag/languages/Dargin/Akusha/audio/хъяр.mp3"
+  },
+  {
+    "revision": "a7598869afb4578b8a647b0061af7a4b",
+    "url": "/Aevzag/languages/Dargin/Akusha/audio/хьунул.mp3"
+  },
+  {
+    "revision": "38ac20c4c89694f2aa059d96e5941456",
+    "url": "/Aevzag/languages/Dargin/Akusha/audio/хӏеб.mp3"
+  },
+  {
+    "revision": "8b197e5bf85bc79bb83522dc36019c30",
+    "url": "/Aevzag/languages/Dargin/Akusha/audio/хӏяйван.mp3"
+  },
+  {
+    "revision": "32324885d6fe47cc5b210be15baac929",
+    "url": "/Aevzag/languages/Dargin/Akusha/audio/царка.mp3"
+  },
+  {
+    "revision": "833fbfa931ae509ad6ca2cc4e2843391",
+    "url": "/Aevzag/languages/Dargin/Akusha/audio/цӏедеш.mp3"
+  },
+  {
+    "revision": "5d33a391f483e1d85966a41da17cb27e",
+    "url": "/Aevzag/languages/Dargin/Akusha/audio/чарма.mp3"
+  },
+  {
+    "revision": "e3ec405816595b10d02a6d3f49997fb8",
+    "url": "/Aevzag/languages/Dargin/Akusha/audio/чӏичӏала.mp3"
+  },
+  {
+    "revision": "409066377a0fa885aba4196ec2acc525",
+    "url": "/Aevzag/languages/Dargin/Akusha/audio/шагьар.mp3"
+  },
+  {
+    "revision": "5a5623fa519e58b841687d221ea7bbf8",
+    "url": "/Aevzag/languages/Dargin/Akusha/audio/шандан.mp3"
+  },
+  {
+    "revision": "608469f0846a74861faab0cf692d8c22",
+    "url": "/Aevzag/languages/Dargin/Akusha/audio/эмхӏе.mp3"
+  },
+  {
+    "revision": "f7b10fafbd26f708a0fe83179b57e372",
+    "url": "/Aevzag/languages/Dargin/Akusha/audio/юлдаш.mp3"
+  },
+  {
+    "revision": "1ebd4eecb6a286c68e642a92a945ccd4",
+    "url": "/Aevzag/languages/Dargin/Akusha/audio/яни.mp3"
   },
   {
     "revision": "265f3346a1286b775901e9a9a3d89782",
@@ -840,7 +1008,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Aevzag/languages/Dargin/flag.png"
   },
   {
-    "revision": "78eb213de39548367198cd28103f604f",
+    "revision": "1cf5822cdda72e0c8050121f90751f81",
     "url": "/Aevzag/languages/Dargin/phonology.json"
   },
   {
