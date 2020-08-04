@@ -456,72 +456,24 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Aevzag/languages/Dargin/Kaitag/audio/бевжвахана.mp3"
   },
   {
-    "revision": "1b1f5de24fbb1f27bba1ce6049e95ae5",
-    "url": "/Aevzag/languages/Dargin/Kaitag/audio/бейкку.mp3"
-  },
-  {
     "revision": "d87d253531ed926d4ba6b1c400dd4860",
     "url": "/Aevzag/languages/Dargin/Kaitag/audio/белгьвана.mp3"
-  },
-  {
-    "revision": "2657df5163f6d9215b605957cc4bdbbd",
-    "url": "/Aevzag/languages/Dargin/Kaitag/audio/белкӏвана.mp3"
   },
   {
     "revision": "3ef8e4785ddce9a2cbc046b8a5463619",
     "url": "/Aevzag/languages/Dargin/Kaitag/audio/бергъвара.mp3"
   },
   {
-    "revision": "57dfb5856b24a253ae2207655feacf01",
-    "url": "/Aevzag/languages/Dargin/Kaitag/audio/берквана.mp3"
-  },
-  {
-    "revision": "f2c009a09569ff3f6328bab0a870ab67",
-    "url": "/Aevzag/languages/Dargin/Kaitag/audio/бихъна.mp3"
-  },
-  {
-    "revision": "d0b6554ef0b934efc7d10f0e0a03718f",
-    "url": "/Aevzag/languages/Dargin/Kaitag/audio/вагьла.mp3"
-  },
-  {
     "revision": "98dcdaa7801b031d1b39088f7d09a3c4",
     "url": "/Aevzag/languages/Dargin/Kaitag/audio/варси.mp3"
-  },
-  {
-    "revision": "ba382f7ab6d2e875574149f2ab3cf9cd",
-    "url": "/Aevzag/languages/Dargin/Kaitag/audio/вегъивкъел.mp3"
   },
   {
     "revision": "b3a286485556691ec962b53880bc629a",
     "url": "/Aevzag/languages/Dargin/Kaitag/audio/вецӏал.mp3"
   },
   {
-    "revision": "637300946608a3eb7316530c3a904696",
-    "url": "/Aevzag/languages/Dargin/Kaitag/audio/г.mp3"
-  },
-  {
-    "revision": "513e8245a7e8bc16dba039a05363c4a4",
-    "url": "/Aevzag/languages/Dargin/Kaitag/audio/гв.mp3"
-  },
-  {
     "revision": "dd660a1852a1822f75da26e1b7cc7842",
     "url": "/Aevzag/languages/Dargin/Kaitag/audio/гванадехь.mp3"
-  },
-  {
-    "revision": "ce50cc8a4cbd0436d52180ffef91ee38",
-    "url": "/Aevzag/languages/Dargin/Kaitag/audio/гуневла.mp3"
-  },
-  {
-    "revision": "9e2ef54fc189adf553c8119c1e8c81b2",
-    "url": "/Aevzag/languages/Dargin/Kaitag/audio/гъ.mp3"
-  },
-  {
-    "revision": "f3eacd9db583523696c4fe38bd81e759",
-    "url": "/Aevzag/languages/Dargin/Kaitag/audio/гъв.mp3"
-  },
-  {
-    "revision": "42be55c8919ad92ac91ceffba3caae8e",
-    "url": "/Aevzag/languages/Dargin/Kaitag/audio/гъвярцӏил.mp3"
   },
   {
     "revision": "809958b5b16b9f60f1a9311d49f32ebc",
@@ -532,36 +484,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Aevzag/languages/Dargin/Kaitag/audio/гъукле.mp3"
   },
   {
-    "revision": "09f07a03fa8571e6c247ebc830b5fb3a",
-    "url": "/Aevzag/languages/Dargin/Kaitag/audio/гь.mp3"
-  },
-  {
     "revision": "7a86c0e12825380749b7cbf3ede017a2",
     "url": "/Aevzag/languages/Dargin/Kaitag/audio/гьассара.mp3"
-  },
-  {
-    "revision": "7b5716f1fad2758298ac186ed3ee208a",
-    "url": "/Aevzag/languages/Dargin/Kaitag/audio/гьв.mp3"
   },
   {
     "revision": "090feaf99fafde411f273ef4e275b94d",
     "url": "/Aevzag/languages/Dargin/Kaitag/audio/гьинце.mp3"
   },
   {
-    "revision": "432d292095120ca202f00180eee970eb",
-    "url": "/Aevzag/languages/Dargin/Kaitag/audio/гьуфбарара.mp3"
-  },
-  {
-    "revision": "7fc5ad35006ea1ad160350cccf659150",
-    "url": "/Aevzag/languages/Dargin/Kaitag/audio/гӏ.mp3"
-  },
-  {
     "revision": "dcc69eb2d5e5e9b6d5758de64508c638",
     "url": "/Aevzag/languages/Dargin/Kaitag/audio/гӏябал.mp3"
-  },
-  {
-    "revision": "e8b60bbcb3a0880c45f5a1807c23285a",
-    "url": "/Aevzag/languages/Dargin/Kaitag/audio/гӏямру.mp3"
   },
   {
     "revision": "6c0c98724e69ff05e20b60bb0dbe6cc7",
@@ -572,16 +504,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Aevzag/languages/Dargin/Kaitag/audio/декӏле.mp3"
   },
   {
-    "revision": "adfba83dcc79204bdf30dd3e7e18f8a2",
-    "url": "/Aevzag/languages/Dargin/Kaitag/audio/делгвана.mp3"
-  },
-  {
     "revision": "17f34333e95f6ffeaccc1a8e587bd11b",
     "url": "/Aevzag/languages/Dargin/Kaitag/audio/дехьвана.mp3"
-  },
-  {
-    "revision": "05e7165c5552d61f4b05eaf646b401af",
-    "url": "/Aevzag/languages/Dargin/Kaitag/audio/диргьвар.mp3"
   },
   {
     "revision": "a870a96f27753ec3fb9fb53972bb62f8",
@@ -590,10 +514,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "e982bf6422e2a8ef3bf413d06d260398",
     "url": "/Aevzag/languages/Dargin/Kaitag/audio/дучче.mp3"
-  },
-  {
-    "revision": "1d42e2349644d4d0e29e8e1601e00f5c",
-    "url": "/Aevzag/languages/Dargin/Kaitag/audio/дярхӏя.mp3"
   },
   {
     "revision": "d124e11ad2c60b326e365d90ac4c8c42",
@@ -620,28 +540,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Aevzag/languages/Dargin/Kaitag/audio/кабихьхьара.mp3"
   },
   {
-    "revision": "3edc6d83a62c132a9a9c05583d1bbc9f",
-    "url": "/Aevzag/languages/Dargin/Kaitag/audio/катӏара.mp3"
-  },
-  {
-    "revision": "a1592d6ef2aac835d41fd025e65488ca",
-    "url": "/Aevzag/languages/Dargin/Kaitag/audio/кв.mp3"
-  },
-  {
     "revision": "2ac351643631756b71f1cad62b7b97f8",
     "url": "/Aevzag/languages/Dargin/Kaitag/audio/квацци.mp3"
   },
   {
     "revision": "8d30d78f8244239b9194216ff36b22bd",
     "url": "/Aevzag/languages/Dargin/Kaitag/audio/керхвара.mp3"
-  },
-  {
-    "revision": "d3a30421a94bc9bbd0a84812068547fd",
-    "url": "/Aevzag/languages/Dargin/Kaitag/audio/кк.mp3"
-  },
-  {
-    "revision": "c4a8a68b230260fa71125ecf38b2ba26",
-    "url": "/Aevzag/languages/Dargin/Kaitag/audio/ккв.mp3"
   },
   {
     "revision": "e088c977f7a34c46ed92a08296cb9f84",
@@ -656,52 +560,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Aevzag/languages/Dargin/Kaitag/audio/къ.mp3"
   },
   {
-    "revision": "d194ee2b13f9d6e22fc1ce67c6225a5a",
-    "url": "/Aevzag/languages/Dargin/Kaitag/audio/къабагъ.mp3"
-  },
-  {
-    "revision": "1438f1898a4f44cff696b6737580c8c9",
-    "url": "/Aevzag/languages/Dargin/Kaitag/audio/къатта.mp3"
-  },
-  {
-    "revision": "b216bebf165a6108703f30ad127a1ed7",
-    "url": "/Aevzag/languages/Dargin/Kaitag/audio/къв.mp3"
-  },
-  {
     "revision": "e3e08030ce7ca6cc5e9d056a5c955c3a",
     "url": "/Aevzag/languages/Dargin/Kaitag/audio/къвяна.mp3"
   },
   {
-    "revision": "5c02713302caa55e324b29873178c8c5",
-    "url": "/Aevzag/languages/Dargin/Kaitag/audio/къкъ.mp3"
-  },
-  {
-    "revision": "d8ec9cf12c03022bf552482e1073e9ad",
-    "url": "/Aevzag/languages/Dargin/Kaitag/audio/кь.mp3"
-  },
-  {
     "revision": "3892287a9b87e64638e7111aa79fbba0",
     "url": "/Aevzag/languages/Dargin/Kaitag/audio/кьаст.mp3"
-  },
-  {
-    "revision": "76d881feec51b589ed996d7030668984",
-    "url": "/Aevzag/languages/Dargin/Kaitag/audio/кьв.mp3"
-  },
-  {
-    "revision": "0975527644773e07d013208ec43e0be8",
-    "url": "/Aevzag/languages/Dargin/Kaitag/audio/кьвял.mp3"
-  },
-  {
-    "revision": "d0de276f78aca4342fe5118cd3fd08f9",
-    "url": "/Aevzag/languages/Dargin/Kaitag/audio/кӏ.mp3"
-  },
-  {
-    "revision": "db98b1a8a24a97a5b7c194f677720e0f",
-    "url": "/Aevzag/languages/Dargin/Kaitag/audio/кӏана.mp3"
-  },
-  {
-    "revision": "64af36e5b1ee726b4a89d7b209d65c98",
-    "url": "/Aevzag/languages/Dargin/Kaitag/audio/кӏв.mp3"
   },
   {
     "revision": "544cba2b7bd66878eb282dd25044b18a",
@@ -720,24 +584,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Aevzag/languages/Dargin/Kaitag/audio/манзи.mp3"
   },
   {
-    "revision": "d75783bc695a22eb1320aaec232bdf89",
-    "url": "/Aevzag/languages/Dargin/Kaitag/audio/махъва.mp3"
-  },
-  {
-    "revision": "d77363da7626a413db42b323d618a1c8",
-    "url": "/Aevzag/languages/Dargin/Kaitag/audio/маъ.mp3"
-  },
-  {
     "revision": "91f94a9deeac911e5563caf1d7f138e6",
     "url": "/Aevzag/languages/Dargin/Kaitag/audio/мейдам.mp3"
-  },
-  {
-    "revision": "99920c8226276625d6bd749232eda138",
-    "url": "/Aevzag/languages/Dargin/Kaitag/audio/милкъвя.mp3"
-  },
-  {
-    "revision": "bbad6fa9a8deaf53e87faeea6611a918",
-    "url": "/Aevzag/languages/Dargin/Kaitag/audio/мукьара.mp3"
   },
   {
     "revision": "549d9875d883def84703c9ed4b4dc604",
@@ -746,10 +594,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "7cc47d3de007978e8774d90676d8e801",
     "url": "/Aevzag/languages/Dargin/Kaitag/audio/нихьхьва.mp3"
-  },
-  {
-    "revision": "2bcc10160081e2201058721684c66f7d",
-    "url": "/Aevzag/languages/Dargin/Kaitag/audio/рангакквар.mp3"
   },
   {
     "revision": "4b428ff2d2a1cd46c1a3118aba3fb544",
@@ -784,14 +628,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Aevzag/languages/Dargin/Kaitag/audio/уцци.mp3"
   },
   {
-    "revision": "a9019d01a68d32869958113dd6ce7b34",
-    "url": "/Aevzag/languages/Dargin/Kaitag/audio/х.mp3"
-  },
-  {
-    "revision": "8a3e29400f2b4f6078e24ddcd3247ebe",
-    "url": "/Aevzag/languages/Dargin/Kaitag/audio/халича.mp3"
-  },
-  {
     "revision": "af64d6466a65b68791e1bd705e7e9d3a",
     "url": "/Aevzag/languages/Dargin/Kaitag/audio/хв.mp3"
   },
@@ -808,16 +644,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Aevzag/languages/Dargin/Kaitag/audio/ххярбе.mp3"
   },
   {
-    "revision": "a9ddb24906710c5b045cff7be8b2c92c",
-    "url": "/Aevzag/languages/Dargin/Kaitag/audio/хъ.mp3"
-  },
-  {
     "revision": "e6108c2e924baa97331a8d36c4405db6",
     "url": "/Aevzag/languages/Dargin/Kaitag/audio/хъале.mp3"
-  },
-  {
-    "revision": "b356f7f8863f1bac2f8f09031ef54f35",
-    "url": "/Aevzag/languages/Dargin/Kaitag/audio/хъв.mp3"
   },
   {
     "revision": "be626058d3b384713f17fa89ccebd63b",
@@ -840,16 +668,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Aevzag/languages/Dargin/Kaitag/audio/хьуне.mp3"
   },
   {
-    "revision": "ad86b12ce39cb8b2fddeb7c4239a9211",
-    "url": "/Aevzag/languages/Dargin/Kaitag/audio/хӏ.mp3"
-  },
-  {
     "revision": "b470115d590e479a5c954bd35908cf1b",
     "url": "/Aevzag/languages/Dargin/Kaitag/audio/хӏянчи.mp3"
-  },
-  {
-    "revision": "cd1def65af5d8e5a6db67dca6b3322b6",
-    "url": "/Aevzag/languages/Dargin/Kaitag/audio/цакъкъара.mp3"
   },
   {
     "revision": "ae91e8057fe90e640a1768395382e431",
@@ -885,7 +705,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   },
   {
     "revision": "10161a9eca6f2c2ef568c360bbcc47d4",
-    "url": "/Aevzag/languages/Dargin/Kaitag/audio/ччвакква.mp3"
+    "url": "/Aevzag/languages/Dargin/Kaitag/audio/ччакква.mp3"
   },
   {
     "revision": "8d597ee8c70be2ce3deca3066402d4d5",
@@ -932,7 +752,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Aevzag/languages/Dargin/flag.png"
   },
   {
-    "revision": "62517c3bde30c487f191974812b07dc3",
+    "revision": "d14ea665f1cd8c2adc7d60623fa01771",
     "url": "/Aevzag/languages/Dargin/phonology.json"
   },
   {
