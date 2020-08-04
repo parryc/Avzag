@@ -24,6 +24,246 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Aevzag/languages/Aghul/flag.png"
   },
   {
+    "revision": "878d5fc07a33ca12e86a1f71a560a10a",
+    "url": "/Aevzag/languages/Circassian/Kabardian/audio/адакъэ.mp3"
+  },
+  {
+    "revision": "57015b447893529a6b7f92b1caaad772",
+    "url": "/Aevzag/languages/Circassian/Kabardian/audio/быдэ.mp3"
+  },
+  {
+    "revision": "d139d1157bd380c72e87f07ef70606bb",
+    "url": "/Aevzag/languages/Circassian/Kabardian/audio/бэли.mp3"
+  },
+  {
+    "revision": "8e46944b4da67389858d6766bcea48ef",
+    "url": "/Aevzag/languages/Circassian/Kabardian/audio/вагъуэ.mp3"
+  },
+  {
+    "revision": "1ea2092dd47a27158784166e8e241a2a",
+    "url": "/Aevzag/languages/Circassian/Kabardian/audio/гу.mp3"
+  },
+  {
+    "revision": "a9f0d6e5f3d4b29c3b9943b3f56fc3c6",
+    "url": "/Aevzag/languages/Circassian/Kabardian/audio/губгъуэ.mp3"
+  },
+  {
+    "revision": "a1f06c8be47dd47bde66b8853601d415",
+    "url": "/Aevzag/languages/Circassian/Kabardian/audio/гущэ.mp3"
+  },
+  {
+    "revision": "d826939d7c55e86db93e8e62f31760d5",
+    "url": "/Aevzag/languages/Circassian/Kabardian/audio/гъавэ.mp3"
+  },
+  {
+    "revision": "1a7fbb84673fa645a89f26178bbe3a1d",
+    "url": "/Aevzag/languages/Circassian/Kabardian/audio/гъубжэ.mp3"
+  },
+  {
+    "revision": "e71ed1bc3eae2984da0e58919e0d1260",
+    "url": "/Aevzag/languages/Circassian/Kabardian/audio/гыныплъ.mp3"
+  },
+  {
+    "revision": "8f5d0a814e3184503fae89cd0af82389",
+    "url": "/Aevzag/languages/Circassian/Kabardian/audio/дагъэ.mp3"
+  },
+  {
+    "revision": "f2f4024645878b7518975de3a84278e4",
+    "url": "/Aevzag/languages/Circassian/Kabardian/audio/джэдэ.mp3"
+  },
+  {
+    "revision": "6914390ca4ffc4916cb04357876a2ca2",
+    "url": "/Aevzag/languages/Circassian/Kabardian/audio/дзыгъуэ.mp3"
+  },
+  {
+    "revision": "a889be803e03aa0eec86cddaf2e59ffe",
+    "url": "/Aevzag/languages/Circassian/Kabardian/audio/жьынду.mp3"
+  },
+  {
+    "revision": "746b312f29dc435a2b5c1b6574fef26c",
+    "url": "/Aevzag/languages/Circassian/Kabardian/audio/жэш.mp3"
+  },
+  {
+    "revision": "fd2aab78f900a2b719e4dd57e587643a",
+    "url": "/Aevzag/languages/Circassian/Kabardian/audio/зауэ.mp3"
+  },
+  {
+    "revision": "a5bbc3ca57677697812a1aaf06b4ef32",
+    "url": "/Aevzag/languages/Circassian/Kabardian/audio/иджы.mp3"
+  },
+  {
+    "revision": "6563957236c12fc8b04ef38d15a960c3",
+    "url": "/Aevzag/languages/Circassian/Kabardian/audio/куабжэ.mp3"
+  },
+  {
+    "revision": "291b3eb71cafd7afc55710509910bc6d",
+    "url": "/Aevzag/languages/Circassian/Kabardian/audio/кхъужь.mp3"
+  },
+  {
+    "revision": "75f694b5ca814205b3a9f3cbe11cd72e",
+    "url": "/Aevzag/languages/Circassian/Kabardian/audio/кхъэ.mp3"
+  },
+  {
+    "revision": "ac8992ffe51eaadd36b7f99db7460f2f",
+    "url": "/Aevzag/languages/Circassian/Kabardian/audio/къабзэ.mp3"
+  },
+  {
+    "revision": "d6160505e0de36a861257db6629e318e",
+    "url": "/Aevzag/languages/Circassian/Kabardian/audio/къуаргъ.mp3"
+  },
+  {
+    "revision": "c620b2d498f3529736cffb7247d12cfd",
+    "url": "/Aevzag/languages/Circassian/Kabardian/audio/кӏапсэ.mp3"
+  },
+  {
+    "revision": "2086b167b93e54924766051185f9f814",
+    "url": "/Aevzag/languages/Circassian/Kabardian/audio/кӏуэцӏ.mp3"
+  },
+  {
+    "revision": "b5839160ff71b0802f833e4bd3b777b1",
+    "url": "/Aevzag/languages/Circassian/Kabardian/audio/лъапсэ.mp3"
+  },
+  {
+    "revision": "dfb614363b800c0ac9d30ae9a90dad45",
+    "url": "/Aevzag/languages/Circassian/Kabardian/audio/лы.mp3"
+  },
+  {
+    "revision": "de4bda348cc6cf5166183443530fdf50",
+    "url": "/Aevzag/languages/Circassian/Kabardian/audio/лӏы.mp3"
+  },
+  {
+    "revision": "7eb2ca89c38c872926ab3bac64fa6bfb",
+    "url": "/Aevzag/languages/Circassian/Kabardian/audio/мазэ.mp3"
+  },
+  {
+    "revision": "35400c3e2fd03cd94d5be8fde3384d5f",
+    "url": "/Aevzag/languages/Circassian/Kabardian/audio/маржэ.mp3"
+  },
+  {
+    "revision": "e4d2a3184e616b7ab7a7bb0668d9ff6f",
+    "url": "/Aevzag/languages/Circassian/Kabardian/audio/мащӏэ.mp3"
+  },
+  {
+    "revision": "57cda61096cef26e428564f5485a1a10",
+    "url": "/Aevzag/languages/Circassian/Kabardian/audio/мобде.mp3"
+  },
+  {
+    "revision": "bf21925346bc9db899de2d9ac880447c",
+    "url": "/Aevzag/languages/Circassian/Kabardian/audio/мыӏэрысэ.mp3"
+  },
+  {
+    "revision": "66322cc27e6877ede6e60c1f0e76ba32",
+    "url": "/Aevzag/languages/Circassian/Kabardian/audio/нащэ.mp3"
+  },
+  {
+    "revision": "e3f2900bf9a19707078321608a2b2975",
+    "url": "/Aevzag/languages/Circassian/Kabardian/audio/пцӏанэ.mp3"
+  },
+  {
+    "revision": "59775a634ca77955b72d7fc9a163e604",
+    "url": "/Aevzag/languages/Circassian/Kabardian/audio/пыӏэ.mp3"
+  },
+  {
+    "revision": "9a5b2f4e1c3fcb111619013b1398f1ab",
+    "url": "/Aevzag/languages/Circassian/Kabardian/audio/пӏырыпӏ.mp3"
+  },
+  {
+    "revision": "62cb50274716d91fa88e757cd2eae8d9",
+    "url": "/Aevzag/languages/Circassian/Kabardian/audio/сэмэгу.mp3"
+  },
+  {
+    "revision": "e4c2900087b2eee8ff08b3f13a50d2e8",
+    "url": "/Aevzag/languages/Circassian/Kabardian/audio/сэхуран.mp3"
+  },
+  {
+    "revision": "07dd7117096861efaea7821269c4bf4f",
+    "url": "/Aevzag/languages/Circassian/Kabardian/audio/тэмакъ.mp3"
+  },
+  {
+    "revision": "a3bff52863545acce4b177fd2cf43987",
+    "url": "/Aevzag/languages/Circassian/Kabardian/audio/тӏу.mp3"
+  },
+  {
+    "revision": "12db82a57086f05f2ecda87118273655",
+    "url": "/Aevzag/languages/Circassian/Kabardian/audio/тӏы.mp3"
+  },
+  {
+    "revision": "b3187e243fe07bbace4828929cd4bce6",
+    "url": "/Aevzag/languages/Circassian/Kabardian/audio/унагъуэ.mp3"
+  },
+  {
+    "revision": "9a92494b7769407c8eed6e71cb3121f1",
+    "url": "/Aevzag/languages/Circassian/Kabardian/audio/фыз.mp3"
+  },
+  {
+    "revision": "7bff7aa1b8d3aa3bcfdaa19c446cbb4e",
+    "url": "/Aevzag/languages/Circassian/Kabardian/audio/фӏэмыщӏ.mp3"
+  },
+  {
+    "revision": "29adde0e4558559a2be5a83eb0ed3b78",
+    "url": "/Aevzag/languages/Circassian/Kabardian/audio/хадэ.mp3"
+  },
+  {
+    "revision": "bc1c3d767200af1575ecda1685ba2481",
+    "url": "/Aevzag/languages/Circassian/Kabardian/audio/хуабэ.mp3"
+  },
+  {
+    "revision": "07e65285d49e68ae871c4a11539613b0",
+    "url": "/Aevzag/languages/Circassian/Kabardian/audio/хъумакӏуэ.mp3"
+  },
+  {
+    "revision": "f48c1ba883e66bcf9db9c9ba29a04aba",
+    "url": "/Aevzag/languages/Circassian/Kabardian/audio/хъыринэ.mp3"
+  },
+  {
+    "revision": "8b2472ea84179881c52a57f4dfc58b6b",
+    "url": "/Aevzag/languages/Circassian/Kabardian/audio/хьэ.mp3"
+  },
+  {
+    "revision": "89f8ee1a2e268229c946c8e65fe68687",
+    "url": "/Aevzag/languages/Circassian/Kabardian/audio/хьэнцэ.mp3"
+  },
+  {
+    "revision": "1746ce8bca4c5617ab8c6743cba41e9f",
+    "url": "/Aevzag/languages/Circassian/Kabardian/audio/чэф.mp3"
+  },
+  {
+    "revision": "12327e24cbc1a35e4e795f1cd8f37d61",
+    "url": "/Aevzag/languages/Circassian/Kabardian/audio/шабзэ.mp3"
+  },
+  {
+    "revision": "c871b767546dead9d120b8e57f107d27",
+    "url": "/Aevzag/languages/Circassian/Kabardian/audio/шыпс.mp3"
+  },
+  {
+    "revision": "4216cf67e64badbe9ed2556adcd0fecb",
+    "url": "/Aevzag/languages/Circassian/Kabardian/audio/щабэ-0.7-2.1.mp3"
+  },
+  {
+    "revision": "9919c4ce69bac53e3d3d1b093c0a6fc8",
+    "url": "/Aevzag/languages/Circassian/Kabardian/audio/щӏакхъуэ.mp3"
+  },
+  {
+    "revision": "8d5997f6bc932f27ea35fcbde74792e2",
+    "url": "/Aevzag/languages/Circassian/Kabardian/audio/щӏыб.mp3"
+  },
+  {
+    "revision": "4a871c9679e6334e0a3eb99b5abefd86",
+    "url": "/Aevzag/languages/Circassian/Kabardian/audio/ӏуоху.mp3"
+  },
+  {
+    "revision": "4e78e9abe8436d9011a44d913368e94e",
+    "url": "/Aevzag/languages/Circassian/Kabardian/audio/ӏупэ.mp3"
+  },
+  {
+    "revision": "6bf9d0c9c328e785636beab50ea05347",
+    "url": "/Aevzag/languages/Circassian/Kabardian/audio/ӏэ.mp3"
+  },
+  {
+    "revision": "58b312e3dcb65b06afe6042ed94526bb",
+    "url": "/Aevzag/languages/Circassian/Kabardian/audio/ӏэфӏ.mp3"
+  },
+  {
     "revision": "caa24792cc521b467dde1ed8b6f0f7cd",
     "url": "/Aevzag/languages/Circassian/converters.json"
   },
