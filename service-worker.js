@@ -1,8 +1,8 @@
-importScripts("/Aevzag/precache-manifest.aab9ff0e9831134345dcb250a632995e.js", "https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
+importScripts("/Avzag/precache-manifest.5a10e9dc6443760cd94107dd5ee265c9.js", "https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 // This is the service worker with the Cache-first network
 
-const CACHE = "sw-aevzag-precache";
+const CACHE = "sw-avzag-precache";
 const precacheFiles = self.__precacheManifest.map(f => f.url);
 
 self.addEventListener("install", function (event) {
