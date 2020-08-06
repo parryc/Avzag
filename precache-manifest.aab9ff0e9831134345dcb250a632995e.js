@@ -748,6 +748,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Aevzag/languages/Dargin/sample.txt"
   },
   {
+    "revision": "85b6ba80063d03e24fc152642e5af9f5",
+    "url": "/Aevzag/languages/Lezgi/flag.png"
+  },
+  {
     "revision": "f6c8004513effb4184373794de833746",
     "url": "/Aevzag/languages/Ossetian/Digor/audio/аггӕл.mp3"
   },
@@ -1396,7 +1400,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Aevzag/languages/Ossetian/sample.txt"
   },
   {
-    "revision": "aa34d21ae0acd4d41ba27c4dbd09277c",
+    "revision": "9d6aeeae5f5b5139cc55209720368f41",
     "url": "/Aevzag/languages/catalogue.json"
   },
   {
