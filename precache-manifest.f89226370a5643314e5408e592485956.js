@@ -544,10 +544,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Aevzag/languages/Dargin/Kaitag/audio/квацци.mp3"
   },
   {
-    "revision": "8d30d78f8244239b9194216ff36b22bd",
-    "url": "/Aevzag/languages/Dargin/Kaitag/audio/керхвара.mp3"
-  },
-  {
     "revision": "e088c977f7a34c46ed92a08296cb9f84",
     "url": "/Aevzag/languages/Dargin/Kaitag/audio/ккуртте.mp3"
   },
@@ -628,20 +624,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Aevzag/languages/Dargin/Kaitag/audio/уцци.mp3"
   },
   {
-    "revision": "af64d6466a65b68791e1bd705e7e9d3a",
-    "url": "/Aevzag/languages/Dargin/Kaitag/audio/хв.mp3"
-  },
-  {
     "revision": "feb8474f3bee89c66b0b2dcc8631aaa8",
     "url": "/Aevzag/languages/Dargin/Kaitag/audio/хвя.mp3"
-  },
-  {
-    "revision": "9ba683d87ec0a44604bf29033aa5dc04",
-    "url": "/Aevzag/languages/Dargin/Kaitag/audio/хх.mp3"
-  },
-  {
-    "revision": "42f978be1b686de72b53aa3b8f2aa412",
-    "url": "/Aevzag/languages/Dargin/Kaitag/audio/ххярбе.mp3"
   },
   {
     "revision": "e6108c2e924baa97331a8d36c4405db6",
@@ -752,7 +736,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Aevzag/languages/Dargin/flag.png"
   },
   {
-    "revision": "d14ea665f1cd8c2adc7d60623fa01771",
+    "revision": "f8c211c9d7b1707d8d14d11dbc175eb0",
     "url": "/Aevzag/languages/Dargin/phonology.json"
   },
   {
