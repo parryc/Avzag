@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "d3c0e9e52d561fa29381",
-    "url": "/Avzag/css/app.08b93345.css"
+    "revision": "b30b0ae40ce6147ee2e9",
+    "url": "/Avzag/css/app.9b618735.css"
   },
   {
     "revision": "c33799a303656ee2db545ddbe182bbef",
     "url": "/Avzag/icon.png"
   },
   {
-    "revision": "08cb84e5ecf3092e2d4200a1f2581b04",
+    "revision": "6417e22e87fb08ec9af9efc1bb54b32b",
     "url": "/Avzag/index.html"
   },
   {
-    "revision": "d3c0e9e52d561fa29381",
-    "url": "/Avzag/js/app.4b989565.js"
+    "revision": "b30b0ae40ce6147ee2e9",
+    "url": "/Avzag/js/app.c57f3a36.js"
   },
   {
-    "revision": "86a1e80e7ff8a908af7d",
-    "url": "/Avzag/js/chunk-vendors.fdbd5eaf.js"
+    "revision": "13674cad22e55c371755",
+    "url": "/Avzag/js/chunk-vendors.c4cb593c.js"
   },
   {
     "revision": "cbcce605a07334daf4fe84c2365dbf30",
