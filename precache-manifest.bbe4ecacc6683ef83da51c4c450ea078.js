@@ -552,8 +552,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/languages/Dargin/Kaitag/audio/кулпет.mp3"
   },
   {
-    "revision": "244c86a0e23338422ac1fafc2a15a3b6",
-    "url": "/languages/Dargin/Kaitag/audio/къ.mp3"
+    "revision": "f122e7f2a090bc7348f79b279313f1e4",
+    "url": "/languages/Dargin/Kaitag/audio/къатта.mp3"
   },
   {
     "revision": "e3e08030ce7ca6cc5e9d056a5c955c3a",
