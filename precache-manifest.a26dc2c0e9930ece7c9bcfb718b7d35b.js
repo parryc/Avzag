@@ -1,7 +1,7 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "c14de27b1ce2e033abd0",
-    "url": "/css/app.f615cca4.css"
+    "revision": "1e6b38365a0795a21f78",
+    "url": "/css/app.4cd9f42f.css"
   },
   {
     "revision": "5d158994fcd7aa9bb948",
@@ -12,12 +12,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/icon.png"
   },
   {
-    "revision": "b3ae0c8ca720d3a1e01328014d1f2a02",
+    "revision": "008ec1832eadc6eb7ec819108c29a466",
     "url": "/index.html"
   },
   {
-    "revision": "c14de27b1ce2e033abd0",
-    "url": "/js/app.6aecba39.js"
+    "revision": "1e6b38365a0795a21f78",
+    "url": "/js/app.b7e3a7e3.js"
   },
   {
     "revision": "5d158994fcd7aa9bb948",
@@ -1396,6 +1396,14 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/lects/Kaitag/phonology.json"
   },
   {
+    "revision": "cbcce605a07334daf4fe84c2365dbf30",
+    "url": "/lects/Keren/flag.png"
+  },
+  {
+    "revision": "c7c3cfcab9c9b13398f269f2e13e2d56",
+    "url": "/lects/Keren/phonology.json"
+  },
+  {
     "revision": "a952c2d71a339cd12b367bdff76d5c89",
     "url": "/lects/Temirgoy/flag.png"
   },
@@ -1404,11 +1412,11 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/lects/Temirgoy/phonology.json"
   },
   {
-    "revision": "cef328ed564ecfb13ea1743e955ec1e1",
+    "revision": "02e748dbb42ad4c4aea88059b735210d",
     "url": "/lects/catalogue.json"
   },
   {
-    "revision": "48d1e12f7b3c8664943864f4ccfc2233",
+    "revision": "117f542fa0f691995490cd15cd6cd8df",
     "url": "/lects/ipa.json"
   },
   {
