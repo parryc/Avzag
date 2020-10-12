@@ -1,0 +1,76 @@
+[
+    {
+        "name": "Kaitag",
+        "coordinates": [
+            42.124722,
+            47.833333
+        ],
+        "family": [
+            "Northeast Caucasian",
+            "Dargic"
+        ],
+        "tags": "Dagestani Caucasian Caspian"
+    },
+    {
+        "name": "Akusha",
+        "coordinates": [
+            42.280422,
+            47.333388
+        ],
+        "family": [
+            "Northeast Caucasian",
+            "Dargic"
+        ],
+        "tags": "Dagestani Caucasian Caspian"
+    },
+    {
+        "name": "Iron",
+        "coordinates": [
+            42.865209,
+            44.245623
+        ],
+        "family": [
+            "Iranian",
+            "Eastern Iranian",
+            "Ossetian"
+        ],
+        "tags": "Caucasian Alanian"
+    },
+    {
+        "name": "Digor",
+        "coordinates": [
+            43.148,
+            44.15
+        ],
+        "family": [
+            "Iranian",
+            "Eastern Iranian",
+            "Ossetian"
+        ],
+        "tags": "Caucasian Alanian"
+    },
+    {
+        "name": "Kabardian",
+        "coordinates": [
+            43.762647,
+            42.769419
+        ],
+        "family": [
+            "Northwest Caucasian",
+            "Circassian"
+        ],
+        "tags": "Caucasian Pontic Adyghe"
+    },
+    {
+        "name": "Temirgoy",
+        "coordinates": [
+            44.206139,
+            40.231612
+        ],
+        "family": [
+            "Northwest Caucasian",
+            "Circassian"
+        ],
+        "tags": "Caucasian Pontic Adyghe"
+    }
+]
