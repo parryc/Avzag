@@ -1400,7 +1400,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/lects/Keren/flag.png"
   },
   {
-    "revision": "c7c3cfcab9c9b13398f269f2e13e2d56",
+    "revision": "04e2f3797479ddec70d12b7068004f67",
     "url": "/lects/Keren/phonology.json"
   },
   {
