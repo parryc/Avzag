@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "3a3ad41f3b27c798040e",
+    "revision": "34fd6ae131b6fc569004",
     "url": "/css/app.e744c197.css"
   },
   {
@@ -12,12 +12,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/icon.png"
   },
   {
-    "revision": "b70c3628857ca35fb29fd543963740d7",
+    "revision": "343196439352c8aac272f1299ffaa80e",
     "url": "/index.html"
   },
   {
-    "revision": "3a3ad41f3b27c798040e",
-    "url": "/js/app.803d606a.js"
+    "revision": "34fd6ae131b6fc569004",
+    "url": "/js/app.73c040a1.js"
   },
   {
     "revision": "7a56ba503c116034c18a",
@@ -1632,7 +1632,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/lects/Keren/flag.png"
   },
   {
-    "revision": "aab1787d58bdc4e9240c8a3fc118f983",
+    "revision": "d4226d1563b0a6df3fe54fee036ad671",
     "url": "/lects/Keren/phonology.json"
   },
   {
