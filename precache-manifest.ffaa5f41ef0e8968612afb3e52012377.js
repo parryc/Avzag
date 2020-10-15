@@ -1,7 +1,7 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "34fd6ae131b6fc569004",
-    "url": "/css/app.e744c197.css"
+    "revision": "c396a06aa1d87d5a2990",
+    "url": "/css/app.bd5e13dd.css"
   },
   {
     "revision": "7a56ba503c116034c18a",
@@ -12,12 +12,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/icon.png"
   },
   {
-    "revision": "343196439352c8aac272f1299ffaa80e",
+    "revision": "de9644d42b8db04c7312fbb8abaa5168",
     "url": "/index.html"
   },
   {
-    "revision": "34fd6ae131b6fc569004",
-    "url": "/js/app.73c040a1.js"
+    "revision": "c396a06aa1d87d5a2990",
+    "url": "/js/app.0ab71512.js"
   },
   {
     "revision": "7a56ba503c116034c18a",
@@ -188,7 +188,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/lects/Akusha/flag.png"
   },
   {
-    "revision": "b7e6aea71a510223033449dab6969390",
+    "revision": "7d6a4caa5ad876f8598d8b37dec04f25",
     "url": "/lects/Akusha/phonology.json"
   },
   {
@@ -1392,7 +1392,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/lects/Kaitag/flag.png"
   },
   {
-    "revision": "7504d3bf3025443d0a53d99675a79997",
+    "revision": "1209e5c9ff42b587b30c30daa0a81994",
     "url": "/lects/Kaitag/phonology.json"
   },
   {
