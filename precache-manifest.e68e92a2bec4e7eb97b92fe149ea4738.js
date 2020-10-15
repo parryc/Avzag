@@ -1,7 +1,7 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "a37ab623addd0008e004",
-    "url": "/css/app.3dfe7cf5.css"
+    "revision": "3a3ad41f3b27c798040e",
+    "url": "/css/app.e744c197.css"
   },
   {
     "revision": "7a56ba503c116034c18a",
@@ -12,12 +12,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/icon.png"
   },
   {
-    "revision": "2ce30f494daf0adc1002ee6def7aa04e",
+    "revision": "b70c3628857ca35fb29fd543963740d7",
     "url": "/index.html"
   },
   {
-    "revision": "a37ab623addd0008e004",
-    "url": "/js/app.4e958eba.js"
+    "revision": "3a3ad41f3b27c798040e",
+    "url": "/js/app.803d606a.js"
   },
   {
     "revision": "7a56ba503c116034c18a",
@@ -1394,6 +1394,238 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "7504d3bf3025443d0a53d99675a79997",
     "url": "/lects/Kaitag/phonology.json"
+  },
+  {
+    "revision": "c52017481da9faac72a410aa8a97a0cd",
+    "url": "/lects/Keren/audio/ахеф.mp3"
+  },
+  {
+    "revision": "d317a332949731491da96eb239f84f9d",
+    "url": "/lects/Keren/audio/бав.mp3"
+  },
+  {
+    "revision": "5ccb9d66d1524e1414066c3d35f137c7",
+    "url": "/lects/Keren/audio/бъамбег.mp3"
+  },
+  {
+    "revision": "9a92cf67200891e830a1b706f66a022e",
+    "url": "/lects/Keren/audio/вартт.mp3"
+  },
+  {
+    "revision": "177bfb5e02f53881c1d4f875916622cb",
+    "url": "/lects/Keren/audio/ваъ.mp3"
+  },
+  {
+    "revision": "233af6454460357cccc7433df7faff89",
+    "url": "/lects/Keren/audio/въас.mp3"
+  },
+  {
+    "revision": "8cda1cafcf843cb126a64cd7c2a50825",
+    "url": "/lects/Keren/audio/гъад.mp3"
+  },
+  {
+    "revision": "d29e680c61604e5e1159bdcca1190381",
+    "url": "/lects/Keren/audio/гъвад.mp3"
+  },
+  {
+    "revision": "7535f693e42d5de05a49c66eeac0f850",
+    "url": "/lects/Keren/audio/гъӏаб.mp3"
+  },
+  {
+    "revision": "874a84584472e9a5dba67f9258e2f874",
+    "url": "/lects/Keren/audio/гьел.mp3"
+  },
+  {
+    "revision": "d825e9221627413278fa4462390bf6cf",
+    "url": "/lects/Keren/audio/гьихьас.mp3"
+  },
+  {
+    "revision": "266fa7a2698712a268166fbae8ce9a07",
+    "url": "/lects/Keren/audio/гӏакв.mp3"
+  },
+  {
+    "revision": "defd64bcefff758ae59c557224a8db91",
+    "url": "/lects/Keren/audio/гӏамкӏ.mp3"
+  },
+  {
+    "revision": "de5654c788790c4cb8dc5e4784d818df",
+    "url": "/lects/Keren/audio/дад.mp3"
+  },
+  {
+    "revision": "013884e62b6c0682e05da696294e0067",
+    "url": "/lects/Keren/audio/жан.mp3"
+  },
+  {
+    "revision": "836f35173cf5867830189a8e6cb339a4",
+    "url": "/lects/Keren/audio/зун.mp3"
+  },
+  {
+    "revision": "f84ede17e2f4c8bb5bf4949588a30678",
+    "url": "/lects/Keren/audio/иркк.mp3"
+  },
+  {
+    "revision": "530a3916410b8ee006d5676e2f3743da",
+    "url": "/lects/Keren/audio/йикӏ.mp3"
+  },
+  {
+    "revision": "a93bc31fdf762a22b0a2db6dd6b80a50",
+    "url": "/lects/Keren/audio/кан.mp3"
+  },
+  {
+    "revision": "ff568523b5611b750172c69e5910f757",
+    "url": "/lects/Keren/audio/кквар.mp3"
+  },
+  {
+    "revision": "62bfb265824081c2323f8eef62e3dca2",
+    "url": "/lects/Keren/audio/ккул.mp3"
+  },
+  {
+    "revision": "bee4061fcd6626af02144e6b1250f769",
+    "url": "/lects/Keren/audio/къал.mp3"
+  },
+  {
+    "revision": "6ec89a92c4e8d08c785d01e674436784",
+    "url": "/lects/Keren/audio/къӏаракъӏал.mp3"
+  },
+  {
+    "revision": "3ee05dbbae2f66df5ed22b33ea8f39bb",
+    "url": "/lects/Keren/audio/кьал.mp3"
+  },
+  {
+    "revision": "da496ac7372b89b82d3b638a1f5fdf7d",
+    "url": "/lects/Keren/audio/кьӏал.mp3"
+  },
+  {
+    "revision": "c67f7c46f8f09064a5c39a0e3e653338",
+    "url": "/lects/Keren/audio/кӏарч.mp3"
+  },
+  {
+    "revision": "f9fff12e40f01cc488fcff7acea401e2",
+    "url": "/lects/Keren/audio/кӏват.mp3"
+  },
+  {
+    "revision": "6582dadc503e7de0dbee4c961015d09e",
+    "url": "/lects/Keren/audio/лукӏ.mp3"
+  },
+  {
+    "revision": "f1fc40170ff418db9ca4a3cd52519b6f",
+    "url": "/lects/Keren/audio/муртт.mp3"
+  },
+  {
+    "revision": "34ebae8b132a07d956d3a1f3c703f6a4",
+    "url": "/lects/Keren/audio/мъарттеф.mp3"
+  },
+  {
+    "revision": "eef8e3689f60004d382726f9f053ee89",
+    "url": "/lects/Keren/audio/найич.mp3"
+  },
+  {
+    "revision": "ecf2cbef8f97d95c3ea409397416d0dc",
+    "url": "/lects/Keren/audio/пас.mp3"
+  },
+  {
+    "revision": "abe1d66f48fdeb0281d46dac1df1710d",
+    "url": "/lects/Keren/audio/ппек.mp3"
+  },
+  {
+    "revision": "d0a4d083ddb05bb7813c314f44278b05",
+    "url": "/lects/Keren/audio/пӏуз.mp3"
+  },
+  {
+    "revision": "866ddd149f01ea57223959d07e24d29b",
+    "url": "/lects/Keren/audio/пӏъаш.mp3"
+  },
+  {
+    "revision": "907c35d877b5a3f58d89035b7e0355f7",
+    "url": "/lects/Keren/audio/рахӏъв.mp3"
+  },
+  {
+    "revision": "33d2ffa9303d07201607ff47c33539d6",
+    "url": "/lects/Keren/audio/рукь.mp3"
+  },
+  {
+    "revision": "ce52c739066203e0e647f8ab3248c8b8",
+    "url": "/lects/Keren/audio/сахв.mp3"
+  },
+  {
+    "revision": "3470d1a7d72cacbfdf8e3e3af14d83e3",
+    "url": "/lects/Keren/audio/сур.mp3"
+  },
+  {
+    "revision": "183c82782b4fe3f42dda17fa77ea8035",
+    "url": "/lects/Keren/audio/ттур.mp3"
+  },
+  {
+    "revision": "79b6ef8acac9217ce0503f4f8d54a457",
+    "url": "/lects/Keren/audio/туп.mp3"
+  },
+  {
+    "revision": "6ca881bd795b7e14e091ce005a798b41",
+    "url": "/lects/Keren/audio/тӏуб.mp3"
+  },
+  {
+    "revision": "72739866c38e4da1c877e063a93ba4e8",
+    "url": "/lects/Keren/audio/угас.mp3"
+  },
+  {
+    "revision": "2808eeab6adb1884588df2064d1ebb4d",
+    "url": "/lects/Keren/audio/уъфуд.mp3"
+  },
+  {
+    "revision": "95625dab6baf81e133638a2cb7531171",
+    "url": "/lects/Keren/audio/фи.mp3"
+  },
+  {
+    "revision": "573ea9730d024cb31a9d06d1234a0d4a",
+    "url": "/lects/Keren/audio/хутӏ.mp3"
+  },
+  {
+    "revision": "d8244ccb99e9f2bc47d61c2cd7db3722",
+    "url": "/lects/Keren/audio/хъара.mp3"
+  },
+  {
+    "revision": "f2c122342925ec4632a73c0cadbcbc02",
+    "url": "/lects/Keren/audio/хъӏард.mp3"
+  },
+  {
+    "revision": "a0bd9b550ad8800e20588ab288fc3238",
+    "url": "/lects/Keren/audio/хъӏвахъӏв.mp3"
+  },
+  {
+    "revision": "6d87865d03bbb4025df7f03b731cefbf",
+    "url": "/lects/Keren/audio/хьир.mp3"
+  },
+  {
+    "revision": "2ea50dfac9293d4371cbb0a8d274f08a",
+    "url": "/lects/Keren/audio/хӏал.mp3"
+  },
+  {
+    "revision": "a393bf58308138fea17258bee218598f",
+    "url": "/lects/Keren/audio/хӏъад.mp3"
+  },
+  {
+    "revision": "2fcbec368f5e3ab43e6ad769384dee49",
+    "url": "/lects/Keren/audio/цил.mp3"
+  },
+  {
+    "revision": "913dca40ca1ef0d243281f41e8505cc2",
+    "url": "/lects/Keren/audio/ццам.mp3"
+  },
+  {
+    "revision": "a608cf6f0af5f1ac4ce228f9dbead143",
+    "url": "/lects/Keren/audio/цӏай.mp3"
+  },
+  {
+    "revision": "7972b2447f260dd5b6c295305a22d1ae",
+    "url": "/lects/Keren/audio/чал.mp3"
+  },
+  {
+    "revision": "40f41bede827118e0ae984773ef4b4ee",
+    "url": "/lects/Keren/audio/чӏал.mp3"
+  },
+  {
+    "revision": "1bc5a82d52eccaf4057f9abc551542a3",
+    "url": "/lects/Keren/audio/шиниккв.mp3"
   },
   {
     "revision": "cbcce605a07334daf4fe84c2365dbf30",
