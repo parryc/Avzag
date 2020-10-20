@@ -1,7 +1,7 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "91b7d655b89dda68ae6b",
-    "url": "/css/app.640b4dad.css"
+    "revision": "5915c55f9fff13b93c45",
+    "url": "/css/app.a6eb6c52.css"
   },
   {
     "revision": "7a56ba503c116034c18a",
@@ -12,12 +12,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/icon.png"
   },
   {
-    "revision": "8019c50f273b3e8817bbda55ee8c8d19",
+    "revision": "962fdb51d855d7552bf565dd1111b60a",
     "url": "/index.html"
   },
   {
-    "revision": "91b7d655b89dda68ae6b",
-    "url": "/js/app.e0643bfb.js"
+    "revision": "5915c55f9fff13b93c45",
+    "url": "/js/app.ba198cde.js"
   },
   {
     "revision": "7a56ba503c116034c18a",
@@ -1626,6 +1626,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "1bc5a82d52eccaf4057f9abc551542a3",
     "url": "/lects/Keren/audio/шиниккв.mp3"
+  },
+  {
+    "revision": "c280ac671dbfe3b001ddbf1fc503de98",
+    "url": "/lects/Keren/converter.json"
   },
   {
     "revision": "cbcce605a07334daf4fe84c2365dbf30",
