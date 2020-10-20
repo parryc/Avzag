@@ -1620,6 +1620,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/lects/Keren/audio/чал.mp3"
   },
   {
+    "revision": "3bde4c4ae6aa6cc942ad1cc240a01cb5",
+    "url": "/lects/Keren/audio/ччам.mp3"
+  },
+  {
     "revision": "40f41bede827118e0ae984773ef4b4ee",
     "url": "/lects/Keren/audio/чӏал.mp3"
   },
