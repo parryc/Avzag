@@ -1,7 +1,7 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "5915c55f9fff13b93c45",
-    "url": "/css/app.a6eb6c52.css"
+    "revision": "ee4e1f60fe00e1637b34",
+    "url": "/css/app.7e814638.css"
   },
   {
     "revision": "7a56ba503c116034c18a",
@@ -12,12 +12,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/icon.png"
   },
   {
-    "revision": "962fdb51d855d7552bf565dd1111b60a",
+    "revision": "0664d0b4833b7bfb3bacb4777f08ff8f",
     "url": "/index.html"
   },
   {
-    "revision": "5915c55f9fff13b93c45",
-    "url": "/js/app.ba198cde.js"
+    "revision": "ee4e1f60fe00e1637b34",
+    "url": "/js/app.800ca3d3.js"
   },
   {
     "revision": "7a56ba503c116034c18a",
@@ -1652,7 +1652,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/lects/Temirgoy/phonology.json"
   },
   {
-    "revision": "5a41d5ab5e15fb2fab9fa71aa5053477",
+    "revision": "7d77526c86e45b79412e1f58126d4d0f",
     "url": "/lects/catalogue.json"
   },
   {
