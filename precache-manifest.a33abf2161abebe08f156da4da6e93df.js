@@ -1,7 +1,7 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "c75857dc7e8f35f3c146",
-    "url": "/css/app.7327e076.css"
+    "revision": "5f0af65bc4915e88d580",
+    "url": "/css/app.a54bd7f6.css"
   },
   {
     "revision": "7a56ba503c116034c18a",
@@ -12,12 +12,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/icon.png"
   },
   {
-    "revision": "e63ca06285bcd05041dc4d45b3155151",
+    "revision": "47978bf64d53c0fe57f798df5987b3b6",
     "url": "/index.html"
   },
   {
-    "revision": "c75857dc7e8f35f3c146",
-    "url": "/js/app.61133531.js"
+    "revision": "5f0af65bc4915e88d580",
+    "url": "/js/app.89499690.js"
   },
   {
     "revision": "7a56ba503c116034c18a",
@@ -1096,7 +1096,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/lects/Kabardian/phonology.json"
   },
   {
-    "revision": "41b90ddccc16675ec691c83dd55e8ab2",
+    "revision": "263461b07ab812b6708f75b0ac2fc8bf",
     "url": "/lects/Kabardian/phrasebook.json"
   },
   {
@@ -1396,6 +1396,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/lects/Kaitag/phonology.json"
   },
   {
+    "revision": "9d0ca275759b5d7e2f6574b630572e55",
+    "url": "/lects/Kaitag/phrasebook.json"
+  },
+  {
     "revision": "c52017481da9faac72a410aa8a97a0cd",
     "url": "/lects/Keren/audio/ахеф.mp3"
   },
@@ -1644,15 +1648,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/lects/Keren/phonology.json"
   },
   {
-    "revision": "a952c2d71a339cd12b367bdff76d5c89",
-    "url": "/lects/Temirgoy/flag.png"
-  },
-  {
-    "revision": "d9cd4320597f84ddd2fd3ac05c13e912",
-    "url": "/lects/Temirgoy/phonology.json"
-  },
-  {
-    "revision": "2f5f42b128c2d88e43c223ac9bc6b6eb",
+    "revision": "acb35921e504904fb5e2d7cef94521b7",
     "url": "/lects/catalogue.json"
   },
   {
@@ -1660,7 +1656,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/lects/ipa.json"
   },
   {
-    "revision": "65d468f033551100c31271b722ab1d9e",
+    "revision": "f2b0cff453079c633a9f84a9f711c6d1",
     "url": "/lects/phrasebook.json"
   },
   {
