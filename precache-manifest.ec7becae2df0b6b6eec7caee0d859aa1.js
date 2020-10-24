@@ -1652,7 +1652,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/lects/Temirgoy/phonology.json"
   },
   {
-    "revision": "7d77526c86e45b79412e1f58126d4d0f",
+    "revision": "2f5f42b128c2d88e43c223ac9bc6b6eb",
     "url": "/lects/catalogue.json"
   },
   {
