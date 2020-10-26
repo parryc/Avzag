@@ -192,7 +192,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/lects/Akusha/phonology.json"
   },
   {
-    "revision": "012aaa0245c1f04e1eb5763a8941ba9b",
+    "revision": "8a4d58eea0aa675d96dd207294c104f8",
     "url": "/lects/Akusha/phrasebook.json"
   },
   {
