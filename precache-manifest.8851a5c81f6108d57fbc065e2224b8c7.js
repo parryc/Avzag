@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "cad0629add68ba2f048c",
-    "url": "/css/app.da68a5d3.css"
+    "revision": "b2af84629863d499fab0",
+    "url": "/css/app.d8343f5d.css"
   },
   {
-    "revision": "7a56ba503c116034c18a",
+    "revision": "d6493e47d45f7a5eabb5",
     "url": "/css/chunk-vendors.3de502ed.css"
   },
   {
@@ -12,16 +12,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/icon.png"
   },
   {
-    "revision": "a9e8d09af783dbe82505360879baab6f",
+    "revision": "305760f633793ff113d946d6c10b6999",
     "url": "/index.html"
   },
   {
-    "revision": "cad0629add68ba2f048c",
-    "url": "/js/app.20d22e57.js"
+    "revision": "b2af84629863d499fab0",
+    "url": "/js/app.88c4abf8.js"
   },
   {
-    "revision": "7a56ba503c116034c18a",
-    "url": "/js/chunk-vendors.e2886dd7.js"
+    "revision": "d6493e47d45f7a5eabb5",
+    "url": "/js/chunk-vendors.ed6b38b3.js"
   },
   {
     "revision": "65b31de99b1fc4d942fbb4950749b9fa",
@@ -192,7 +192,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/lects/Akusha/phonology.json"
   },
   {
-    "revision": "8a4d58eea0aa675d96dd207294c104f8",
+    "revision": "60aba86e28a88630118efde0f79b38c7",
     "url": "/lects/Akusha/phrasebook.json"
   },
   {
@@ -1100,7 +1100,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/lects/Kabardian/phonology.json"
   },
   {
-    "revision": "1d5914c4ec6857e375666c442fc869e2",
+    "revision": "a4add6f864e652130ba7b85e862392f8",
     "url": "/lects/Kabardian/phrasebook.json"
   },
   {
@@ -1400,7 +1400,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/lects/Kaitag/phonology.json"
   },
   {
-    "revision": "c17a02b4396f9619bfd671e7f12022f6",
+    "revision": "5e2f5240d1d75fbdee9106fd25efa742",
     "url": "/lects/Kaitag/phrasebook.json"
   },
   {
@@ -1660,7 +1660,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/lects/ipa.json"
   },
   {
-    "revision": "ec4000b1bfc2f1d7a8549ab86a06fec7",
+    "revision": "65eedb12dcb75a876fee778374d663f6",
     "url": "/lects/phrasebook.json"
   },
   {
