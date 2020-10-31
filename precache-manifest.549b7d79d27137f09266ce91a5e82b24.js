@@ -897,7 +897,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   },
   {
     "revision": "f2f4024645878b7518975de3a84278e4",
-    "url": "/lects/Kabardian/audio/джэдэ.mp3"
+    "url": "/lects/Kabardian/audio/джыдэ.mp3"
   },
   {
     "revision": "6914390ca4ffc4916cb04357876a2ca2",
@@ -1096,7 +1096,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/lects/Kabardian/flag.png"
   },
   {
-    "revision": "1eb0e0b4618d1f50b3266b83fde5c823",
+    "revision": "1c18f27fbafd55600657f09c45a34baa",
     "url": "/lects/Kabardian/phonology.json"
   },
   {
