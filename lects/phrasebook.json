@@ -1,14 +1,14 @@
 [
     {
         "preview": "Asking direction",
-        "environment": [
+        "context": [
             {
                 "entity": "tense",
                 "tags": "present future"
             },
             {
                 "entity": "actor",
-                "tags": "singular plural"
+                "tags": "singular feminine masculine plural"
             },
             {
                 "entity": "destination",
@@ -131,7 +131,7 @@
     },
     {
         "preview": "Asking cost",
-        "environment": [
+        "context": [
             {
                 "entity": "object",
                 "tags": "singular plural ticket apple"
@@ -212,7 +212,7 @@
     },
     {
         "preview": "Asking name",
-        "environment": [
+        "context": [
             {
                 "entity": "object",
                 "tags": "object person first second third masculine feminine"
@@ -281,7 +281,7 @@
     },
     {
         "preview": "Giving thanks",
-        "environment": [
+        "context": [
             {
                 "entity": "subject",
                 "tags": "singular plural"
