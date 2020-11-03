@@ -1,7 +1,7 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "10acbc6be5d554255ad0",
-    "url": "/css/app.6c65d1f3.css"
+    "revision": "1beec3c9e16944d161ff",
+    "url": "/css/app.46c046e7.css"
   },
   {
     "revision": "b7cd4cb706958df1f8b4",
@@ -12,12 +12,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/icon.png"
   },
   {
-    "revision": "ebf666e848a5aef4a71f5609d6026c45",
+    "revision": "00d7a0f6f20ed305ea766c751b04bca5",
     "url": "/index.html"
   },
   {
-    "revision": "10acbc6be5d554255ad0",
-    "url": "/js/app.ffe69716.js"
+    "revision": "1beec3c9e16944d161ff",
+    "url": "/js/app.474c9f6c.js"
   },
   {
     "revision": "b7cd4cb706958df1f8b4",
@@ -1660,7 +1660,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/lects/ipa.json"
   },
   {
-    "revision": "42bfff5960fc5883cde9330014785030",
+    "revision": "d585920e1e3b2e70013fd91e0972f3c0",
     "url": "/lects/phrasebook.json"
   },
   {
