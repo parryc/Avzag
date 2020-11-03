@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "20c0363dc40998464c67",
-    "url": "/css/app.b014f75b.css"
+    "revision": "76e9ef9db22e08a644fd",
+    "url": "/css/app.da691a3e.css"
   },
   {
-    "revision": "b7cd4cb706958df1f8b4",
+    "revision": "c774e749f9fa3e376e08",
     "url": "/css/chunk-vendors.3de502ed.css"
   },
   {
@@ -12,16 +12,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/icon.png"
   },
   {
-    "revision": "8881c94bf8b9282c4e5093b4546849d7",
+    "revision": "d86684910b54e3ba1513aa4cc49a8f8d",
     "url": "/index.html"
   },
   {
-    "revision": "20c0363dc40998464c67",
-    "url": "/js/app.db16a43a.js"
+    "revision": "76e9ef9db22e08a644fd",
+    "url": "/js/app.285db9f3.js"
   },
   {
-    "revision": "b7cd4cb706958df1f8b4",
-    "url": "/js/chunk-vendors.b0c4e034.js"
+    "revision": "c774e749f9fa3e376e08",
+    "url": "/js/chunk-vendors.a6c19d33.js"
   },
   {
     "revision": "65b31de99b1fc4d942fbb4950749b9fa",
@@ -1400,7 +1400,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/lects/Kaitag/phonology.json"
   },
   {
-    "revision": "27af13226df7f5481611a825a67eb114",
+    "revision": "7cbc0fcceb56ad924a025000c5ed2b86",
     "url": "/lects/Kaitag/phrasebook.json"
   },
   {
