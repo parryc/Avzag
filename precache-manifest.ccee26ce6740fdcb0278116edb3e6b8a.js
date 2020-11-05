@@ -1,7 +1,7 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "7fc7ab0c7563b4f471ef",
-    "url": "/css/app.f00fdc31.css"
+    "revision": "b4d0ee495e760046e93c",
+    "url": "/css/app.baff0841.css"
   },
   {
     "revision": "c774e749f9fa3e376e08",
@@ -12,12 +12,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/icon.png"
   },
   {
-    "revision": "18495b358ea63420288ffd000cb164ae",
+    "revision": "082d7740441ff5da399fdaa31ce5757a",
     "url": "/index.html"
   },
   {
-    "revision": "7fc7ab0c7563b4f471ef",
-    "url": "/js/app.41eb9bb8.js"
+    "revision": "b4d0ee495e760046e93c",
+    "url": "/js/app.88f1a157.js"
   },
   {
     "revision": "c774e749f9fa3e376e08",
@@ -836,7 +836,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/lects/Iron/audio/ӕххуыс.mp3"
   },
   {
-    "revision": "5a1f872f04f52bc71481bfb4ad4ea4a6",
+    "revision": "4d45e4e4f19fc40e1d9f203eda57726c",
     "url": "/lects/Iron/converter.json"
   },
   {
@@ -1388,7 +1388,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/lects/Kaitag/audio/эркӏ.mp3"
   },
   {
-    "revision": "ce41d5ba925e7e327f7fe741ddc87af8",
+    "revision": "f3900f4fbca8770d97047a46440548d9",
     "url": "/lects/Kaitag/converter.json"
   },
   {
@@ -1660,7 +1660,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/lects/ipa.json"
   },
   {
-    "revision": "9413e1086b1b608e782acc553e1c78aa",
+    "revision": "f744e5d1100c805093c9c021104fb02c",
     "url": "/lects/phrasebook.json"
   },
   {
