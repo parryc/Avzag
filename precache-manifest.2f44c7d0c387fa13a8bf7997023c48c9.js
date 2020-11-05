@@ -1660,7 +1660,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/lects/ipa.json"
   },
   {
-    "revision": "f744e5d1100c805093c9c021104fb02c",
+    "revision": "e3cf86a22c1e65665f0252ce90981063",
     "url": "/lects/phrasebook.json"
   },
   {

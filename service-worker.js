@@ -1,4 +1,4 @@
-importScripts("/precache-manifest.99dcfcdf3774ac1752d1495e51b7a24c.js", "https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
+importScripts("/precache-manifest.2f44c7d0c387fa13a8bf7997023c48c9.js", "https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 // This is the service worker with the Cache-first network
 
