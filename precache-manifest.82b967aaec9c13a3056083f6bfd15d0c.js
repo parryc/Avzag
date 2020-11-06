@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "ea13b383ef08c5834be0",
-    "url": "/css/app.6aea58ef.css"
+    "revision": "fff5205042db8a0e8838",
+    "url": "/css/app.4138a5d9.css"
   },
   {
-    "revision": "c774e749f9fa3e376e08",
+    "revision": "63e8659637fa8f2f2285",
     "url": "/css/chunk-vendors.3de502ed.css"
   },
   {
@@ -12,16 +12,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/icon.png"
   },
   {
-    "revision": "b85c2989fea8f670bbc11251071f0dc7",
+    "revision": "662b4d2d6dbcb90ba88bf20344718887",
     "url": "/index.html"
   },
   {
-    "revision": "ea13b383ef08c5834be0",
-    "url": "/js/app.6393e3cb.js"
+    "revision": "fff5205042db8a0e8838",
+    "url": "/js/app.ea8d9e9f.js"
   },
   {
-    "revision": "c774e749f9fa3e376e08",
-    "url": "/js/chunk-vendors.a6c19d33.js"
+    "revision": "63e8659637fa8f2f2285",
+    "url": "/js/chunk-vendors.0dfd1e6d.js"
   },
   {
     "revision": "65b31de99b1fc4d942fbb4950749b9fa",
@@ -192,7 +192,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/lects/Akusha/phonology.json"
   },
   {
-    "revision": "ebb95cc17fba5b3614b939c9ff938313",
+    "revision": "ace911dd526b4dcfbc39f6caff1c5ed1",
     "url": "/lects/Akusha/phrasebook.json"
   },
   {
@@ -1100,7 +1100,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/lects/Kabardian/phonology.json"
   },
   {
-    "revision": "badf185a9c2818cc0209f81e468f1a20",
+    "revision": "42b50aa4d0c5c11a3ac86ad67c15edc0",
     "url": "/lects/Kabardian/phrasebook.json"
   },
   {
@@ -1400,7 +1400,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/lects/Kaitag/phonology.json"
   },
   {
-    "revision": "252951d949073acdde9c24f3356ce486",
+    "revision": "b4218487ed7634abec95871caf2576eb",
     "url": "/lects/Kaitag/phrasebook.json"
   },
   {
