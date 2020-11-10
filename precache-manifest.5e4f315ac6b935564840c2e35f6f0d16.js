@@ -1,7 +1,7 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "6a333ee2ae608f227880",
-    "url": "/css/app.b9b5af1e.css"
+    "revision": "37b16031d243cbe632a4",
+    "url": "/css/app.6d083d3c.css"
   },
   {
     "revision": "63e8659637fa8f2f2285",
@@ -12,12 +12,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/icon.png"
   },
   {
-    "revision": "d1de07b4423297e3da6629321c4efc0b",
+    "revision": "aa80aa47093118e7f4431d16002a1288",
     "url": "/index.html"
   },
   {
-    "revision": "6a333ee2ae608f227880",
-    "url": "/js/app.b5e11dfb.js"
+    "revision": "37b16031d243cbe632a4",
+    "url": "/js/app.b228d72d.js"
   },
   {
     "revision": "63e8659637fa8f2f2285",
@@ -192,7 +192,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/lects/Akusha/phonology.json"
   },
   {
-    "revision": "7b0938075d4451b3d95e393fc8207403",
+    "revision": "50980156825b8e0f73f107861b083355",
     "url": "/lects/Akusha/phrasebook.json"
   },
   {
@@ -1100,7 +1100,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/lects/Kabardian/phonology.json"
   },
   {
-    "revision": "6284c888c378539f46c933754f26d217",
+    "revision": "bc096b1622ba81d474a87f9d69e72ecd",
     "url": "/lects/Kabardian/phrasebook.json"
   },
   {
@@ -1400,7 +1400,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/lects/Kaitag/phonology.json"
   },
   {
-    "revision": "77bb51d253b7715c00e24e1336f192ea",
+    "revision": "1407d435875f10669d72c5c9884f39cc",
     "url": "/lects/Kaitag/phrasebook.json"
   },
   {
@@ -1660,7 +1660,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/lects/ipa.json"
   },
   {
-    "revision": "3312438146f41eb7f963fee300caf4d5",
+    "revision": "5f5564b8f3c0d441ad715e82fd0130da",
     "url": "/lects/phrasebook.json"
   },
   {
