@@ -1100,7 +1100,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/lects/Kabardian/phonology.json"
   },
   {
-    "revision": "bc096b1622ba81d474a87f9d69e72ecd",
+    "revision": "4f3259cecba92c1feff5abbfb5d2a6d7",
     "url": "/lects/Kabardian/phrasebook.json"
   },
   {
@@ -1400,7 +1400,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/lects/Kaitag/phonology.json"
   },
   {
-    "revision": "619b5f4a64fabd12721e7a0dc330d5eb",
+    "revision": "5e9fda107c685520f9133ed0047412bc",
     "url": "/lects/Kaitag/phrasebook.json"
   },
   {
