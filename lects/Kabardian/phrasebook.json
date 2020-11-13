@@ -246,73 +246,66 @@
                         }
                     ]
                 }
-            ]
-        },
-        {
-            "blocks": [
+            ],
+            "context": [
                 {
-                    "states": [
-                        {
-                            "conditions": [
-                                {
-                                    "entity": "object",
-                                    "tag": "singular"
-                                }
-                            ],
-                            "transition": "next",
-                            "display": [
-                                {
-                                    "text": "Мыбы"
-                                }
-                            ]
-                        },
-                        {
-                            "conditions": [
-                                {
-                                    "entity": "object",
-                                    "tag": "ticket"
-                                },
-                                {
-                                    "entity": "object",
-                                    "tag": "singular"
-                                }
-                            ],
-                            "transition": "next",
-                            "display": [
-                                {
-                                    "text": "Билетым"
-                                }
-                            ]
-                        },
-                        {
-                            "conditions": [
-                                {
-                                    "entity": "object",
-                                    "tag": "apple"
-                                },
-                                {
-                                    "entity": "object",
-                                    "tag": "plural"
-                                }
-                            ],
-                            "transition": "next",
-                            "display": [
-                                {
-                                    "text": "Мыӏэрысэхэм"
-                                }
-                            ]
-                        }
+                    "entity": [
+                        "tense",
+                        "зэман"
+                    ],
+                    "tags": [
+                        [
+                            "present",
+                            "иджы"
+                        ],
+                        [
+                            "future",
+                            "итІанэ"
+                        ]
                     ]
                 },
                 {
-                    "states": [
-                        {
-                            "display": [
-                                {
-                                    "text": "дапщэ и уэсэр?"
-                                }
-                            ]
-                        }
+                    "entity": [
+                        "actor",
+                        "цIыху"
+                    ],
+                    "tags": [
+                        [
+                            "singular",
+                            "закъуэ"
+                        ],
+                        [
+                            "feminine",
+                            "цIыхубз"
+                        ],
+                        [
+                            "masculine",
+                            "цIыхухъу"
+                        ],
+                        [
+                            "plural",
+                            "зыбжанэ"
+                        ]
+                    ]
+                },
+                {
+                    "entity": [
+                        "destination",
+                        "щIыпIэ"
+                    ],
+                    "tags": [
+                        [
+                            "there",
+                            "абы"
+                        ],
+                        [
+                            "home",
+                            "унэ"
+                        ],
+                        [
+                            "shop",
+                            "тыкуэн"
+                        ]
                     ]
                 }
             ]
@@ -563,6 +556,77 @@
                             "display": [
                                 {
                                     "text": "фыкъыддэӏэпыкъуащ."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "in shop": [
+        {
+            "blocks": [
+                {
+                    "states": [
+                        {
+                            "conditions": [
+                                {
+                                    "entity": "object",
+                                    "tag": "singular"
+                                }
+                            ],
+                            "transition": "next",
+                            "display": [
+                                {
+                                    "text": "Мыбы"
+                                }
+                            ]
+                        },
+                        {
+                            "conditions": [
+                                {
+                                    "entity": "object",
+                                    "tag": "ticket"
+                                },
+                                {
+                                    "entity": "object",
+                                    "tag": "singular"
+                                }
+                            ],
+                            "transition": "next",
+                            "display": [
+                                {
+                                    "text": "Билетым"
+                                }
+                            ]
+                        },
+                        {
+                            "conditions": [
+                                {
+                                    "entity": "object",
+                                    "tag": "apple"
+                                },
+                                {
+                                    "entity": "object",
+                                    "tag": "plural"
+                                }
+                            ],
+                            "transition": "next",
+                            "display": [
+                                {
+                                    "text": "Мыӏэрысэхэм"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "states": [
+                        {
+                            "display": [
+                                {
+                                    "text": "дапщэ и уэсэр?"
                                 }
                             ]
                         }
