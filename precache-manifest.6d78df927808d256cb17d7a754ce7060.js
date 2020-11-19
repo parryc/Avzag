@@ -1400,7 +1400,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/lects/Kaitag/phonology.json"
   },
   {
-    "revision": "9584f73494f9c7fb093edd505adc87c3",
+    "revision": "bc5254b5405a5bd6d445cb1b48b785c7",
     "url": "/lects/Kaitag/phrasebook.json"
   },
   {
