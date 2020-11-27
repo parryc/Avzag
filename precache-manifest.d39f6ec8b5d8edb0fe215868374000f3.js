@@ -28,7 +28,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/lects/Adyghe/flag.png"
   },
   {
-    "revision": "e71cac104223ec81fee4ed353c38d709",
+    "revision": "2536db45d7fd75fe1b3726e2d6df12e0",
     "url": "/lects/Adyghe/phrasebook.json"
   },
   {
