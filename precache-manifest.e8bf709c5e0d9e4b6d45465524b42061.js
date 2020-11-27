@@ -1660,7 +1660,15 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/lects/Keren/phonology.json"
   },
   {
-    "revision": "a29a192cc4224691a02aefc065f662f9",
+    "revision": "6d57341b0a224316a9c0c6f1d5aaf2f0",
+    "url": "/lects/Udmurt/flag.png"
+  },
+  {
+    "revision": "436835976da7cdd4da694679e44d4fef",
+    "url": "/lects/Udmurt/phrasebook.json"
+  },
+  {
+    "revision": "434fa712c439d6d1500785206177095d",
     "url": "/lects/catalogue.json"
   },
   {
