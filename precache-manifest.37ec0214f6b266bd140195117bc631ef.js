@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "019ba49b9101639c35db",
+    "revision": "9b2f8884e8364762e760",
     "url": "/css/app.b56e59fc.css"
   },
   {
@@ -12,12 +12,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/icon.png"
   },
   {
-    "revision": "d16cf8657b6cc76084e1702d2f788bd9",
+    "revision": "0391f0271b8150a6839466fb97d7dda8",
     "url": "/index.html"
   },
   {
-    "revision": "019ba49b9101639c35db",
-    "url": "/js/app.ec5e7660.js"
+    "revision": "9b2f8884e8364762e760",
+    "url": "/js/app.81244065.js"
   },
   {
     "revision": "9321d639b0d89d2ff29e",
@@ -28,7 +28,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/lects/Adyghe/flag.png"
   },
   {
-    "revision": "07f6cd7e12621b4adc19acdd125e5070",
+    "revision": "e71cac104223ec81fee4ed353c38d709",
     "url": "/lects/Adyghe/phrasebook.json"
   },
   {
@@ -856,7 +856,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/lects/Iron/phonology.json"
   },
   {
-    "revision": "3caa446c5cbcd79ab94806882672f990",
+    "revision": "f27bfa6d68c9aacca0320ddb4321c90f",
     "url": "/lects/Iron/phrasebook.json"
   },
   {
