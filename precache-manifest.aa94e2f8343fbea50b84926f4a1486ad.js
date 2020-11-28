@@ -1672,7 +1672,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/lects/Udmurt/phrasebook.json"
   },
   {
-    "revision": "434fa712c439d6d1500785206177095d",
+    "revision": "4be7dbd9e2e4942e5aa3f32370844798",
     "url": "/lects/catalogue.json"
   },
   {
