@@ -1096,6 +1096,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/lects/Kabardian/audio/ӏэфӏ.mp3"
   },
   {
+    "revision": "35a6bddeffa3e601a3c5201328f33e38",
+    "url": "/lects/Kabardian/converter.json"
+  },
+  {
     "revision": "a952c2d71a339cd12b367bdff76d5c89",
     "url": "/lects/Kabardian/flag.png"
   },
