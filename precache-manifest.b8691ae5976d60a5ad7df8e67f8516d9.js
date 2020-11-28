@@ -24,14 +24,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/js/chunk-vendors.e0a2b069.js"
   },
   {
-    "revision": "a952c2d71a339cd12b367bdff76d5c89",
-    "url": "/lects/Adyghe/flag.png"
-  },
-  {
-    "revision": "2536db45d7fd75fe1b3726e2d6df12e0",
-    "url": "/lects/Adyghe/phrasebook.json"
-  },
-  {
     "revision": "65b31de99b1fc4d942fbb4950749b9fa",
     "url": "/lects/Akusha/audio/асар.mp3"
   },
@@ -1664,6 +1656,14 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/lects/Keren/phonology.json"
   },
   {
+    "revision": "a952c2d71a339cd12b367bdff76d5c89",
+    "url": "/lects/Temirgoy/flag.png"
+  },
+  {
+    "revision": "2536db45d7fd75fe1b3726e2d6df12e0",
+    "url": "/lects/Temirgoy/phrasebook.json"
+  },
+  {
     "revision": "6d57341b0a224316a9c0c6f1d5aaf2f0",
     "url": "/lects/Udmurt/flag.png"
   },
@@ -1672,7 +1672,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/lects/Udmurt/phrasebook.json"
   },
   {
-    "revision": "4be7dbd9e2e4942e5aa3f32370844798",
+    "revision": "aca48f87389cc1594fb98f8fb1a0802c",
     "url": "/lects/catalogue.json"
   },
   {
