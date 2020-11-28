@@ -512,6 +512,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/lects/Digor/phonology.json"
   },
   {
+    "revision": "7aaf2a8a38cac6573ea1641c46c1468a",
+    "url": "/lects/Digor/phrasebook.json"
+  },
+  {
     "revision": "ced1457eb7f6a563baec4c2996591c9d",
     "url": "/lects/Iron/audio/абон.mp3"
   },
