@@ -1672,7 +1672,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/lects/Udmurt/flag.png"
   },
   {
-    "revision": "436835976da7cdd4da694679e44d4fef",
+    "revision": "f01cc2290c92618c31c4d4cf0a9b15db",
     "url": "/lects/Udmurt/phrasebook.json"
   },
   {
