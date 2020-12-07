@@ -1404,7 +1404,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/lects/Kaitag/flag.png"
   },
   {
-    "revision": "626ed85206050c40ff388a9a46f4bb43",
+    "revision": "ada9f085cb793befd5b957e487461e8d",
     "url": "/lects/Kaitag/phonology.json"
   },
   {
@@ -1680,7 +1680,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/lects/catalogue.json"
   },
   {
-    "revision": "117f542fa0f691995490cd15cd6cd8df",
+    "revision": "3cd1f7afc07f0b1f00ff748a458bdbad",
     "url": "/lects/ipa.json"
   },
   {
