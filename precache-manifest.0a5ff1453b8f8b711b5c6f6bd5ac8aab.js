@@ -1660,6 +1660,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/lects/Keren/phonology.json"
   },
   {
+    "revision": "155cc9e27b7b6411d7a41dcd7499f5e8",
+    "url": "/lects/Keren/phrasebook.json"
+  },
+  {
     "revision": "a952c2d71a339cd12b367bdff76d5c89",
     "url": "/lects/Temirgoy/flag.png"
   },
