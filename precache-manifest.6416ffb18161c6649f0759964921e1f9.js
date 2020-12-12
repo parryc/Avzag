@@ -1660,7 +1660,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/lects/Keren/phonology.json"
   },
   {
-    "revision": "2e1e19ed34c8dbf9056588f2a9fd117a",
+    "revision": "68e8e2ac9eaaa36d5ca5191b145cf5a4",
     "url": "/lects/Keren/phrasebook.json"
   },
   {
