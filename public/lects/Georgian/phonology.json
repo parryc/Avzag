@@ -1,0 +1,104 @@
+[
+  {
+    "phoneme": "a",
+    "samples": [
+      {
+        "grapheme": "ა",
+        "word": "აი",
+        "ipa": "ai"
+      }
+    ],
+    "notes": []
+  },
+  {
+    "phoneme": "ɛ",
+    "notes": [],
+    "samples": [
+      {
+        "grapheme": "ე",
+        "word": "ეგ",
+        "ipa": "ɛg"
+      }
+    ]
+  },
+  {
+    "phoneme": "i",
+    "samples": [
+      {
+        "grapheme": "ი",
+        "word": "ია",
+        "ipa": "ia"
+      }
+    ]
+  },
+  {
+    "phoneme": "u",
+    "samples": [
+      {
+        "grapheme": "უ",
+        "word": "რუ",
+        "ipa": "ru"
+      }
+    ]
+  },
+  {
+    "phoneme": "ɔ",
+    "samples": [
+      {
+        "grapheme": "ო",
+        "word": "რკო",
+        "ipa": "rk'ɔ"
+      }
+    ]
+  },
+  {
+    "phoneme": "m",
+    "samples": [
+      {
+        "grapheme": "მ",
+        "word": "მთა",
+        "ipa": "mtʰa"
+      }
+    ]
+  },
+  {
+    "phoneme": "n",
+    "samples": [
+      {
+        "grapheme": "ნ",
+        "word": "ნივთი",
+        "ipa": "nivtʰi"
+      }
+    ]
+  },
+  {
+    "phoneme": "pʰ",
+    "samples": [
+      {
+        "grapheme": "ფ",
+        "word": "ფერი",
+        "ipa": "pʰɛri"
+      }
+    ]
+  },
+  {
+    "phoneme": "tʰ",
+    "samples": [
+      {
+        "grapheme": "თ",
+        "word": "მთა",
+        "ipa": "mtʰa"
+      }
+    ]
+  },
+  {
+    "phoneme": "kʰ",
+    "samples": [
+      {
+        "grapheme": "ქ",
+        "word": "ქვაბი",
+        "ipa": "kʰwabi"
+      }
+    ]
+  }
+]
