@@ -100,5 +100,17 @@
             "Permic"
         ],
         "tags": "Finno Ugric"
+    },
+    {
+        "name": "Georgian",
+        "coordinates": [
+            41.688855,
+            44.796125
+        ],
+        "family": [
+            "South Caucasian",
+            "Kartvelian"
+        ],
+        "tags": "Kartvelian"
     }
 ]
